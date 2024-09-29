@@ -28,28 +28,32 @@ special_genes = {
 					1 = male_clothes_secular_dde_hre_nobility_01_common
 					1 = male_clothes_secular_dde_hre_nobility_01_low
 					1 = male_clothes_secular_dde_hre_nobility_01_high
-					1 = male_clothes_secular_western_war_nobility_01_low
+					1 = m_clothes_sec_western_war_nob_01_lo
+					1 = m_clothes_sec_western_war_nob_01_hi
 					1 = male_clothes_situational_western_bedchamber_01_common
 					1 = male_clothes_situational_western_prison_01_common
 					1 = male_clothes_situational_western_stealth_cloak_01
-					1 = male_clothes_secular_crusades_western_war_nobility_01_common
-					1 = male_clothes_secular_crusades_western_war_nobility_02_common
-					1 = male_clothes_secular_crusades_western_war_nobility_03_common
-					1 = male_clothes_secular_crusades_western_war_nobility_04_common
+					1 = m_clothes_sec_crusades_western_war_nob_01_templar
+					1 = m_clothes_sec_crusades_western_war_nob_01_hospitaller
+					1 = m_clothes_sec_crusades_western_war_nob_01_jerusalem
+					1 = m_clothes_sec_crusades_western_war_nob_01_common
 					1 = male_clothes_secular_indian_nobility_01_common
 					1 = male_clothes_secular_indian_nobility_02_common
 					1 = male_clothes_secular_indian_nobility_01_low	
 					1 = male_clothes_secular_indian_nobility_02_low	
 					1 = male_clothes_secular_indian_nobility_01_high	
 					1 = male_clothes_secular_indian_nobility_02_high
-					1 = male_clothes_secular_indian_war_nobility_01_low	
+					1 = m_clothes_sec_indian_war_nob_01_lo
+					1 = m_clothes_sec_indian_war_nob_01_hi	
 					1 = male_clothes_secular_byzantine_nobility_01_common
 					1 = male_clothes_secular_byzantine_nobility_02_common
 					1 = male_clothes_secular_byzantine_nobility_01_low
 					1 = male_clothes_secular_byzantine_nobility_02_low
 					1 = male_clothes_secular_byzantine_nobility_01_high
 					1 = male_clothes_secular_byzantine_nobility_02_high
-					1 = male_clothes_secular_byzantine_war_nobility_01_low
+					1 = m_clothes_sec_byzantine_war_nob_01_lo
+					1 = m_clothes_sec_byzantine_war_nob_01_hi
+					1 = m_clothes_sec_byzantine_war_nob_01_roy
 					1 = male_clothes_secular_steppe_nobility_01_common
 					1 = male_clothes_secular_steppe_nobility_02_common
 					1 = male_clothes_secular_steppe_nobility_01_low
@@ -67,31 +71,34 @@ special_genes = {
 					1 = male_clothes_secular_mena_nobility_01_high
 					1 = male_clothes_secular_mena_nobility_02_high
 					1 = male_clothes_secular_dde_abbasid_nobility_01_high
-					1 = male_clothes_secular_mena_war_nobility_01_low
+					1 = m_clothes_sec_mena_war_nob_01_lo
 					1 = male_clothes_secular_northern_nobility_01_common
 					1 = male_clothes_secular_northern_nobility_02_common
 					1 = male_clothes_secular_northern_nobility_01_low
 					1 = male_clothes_secular_northern_nobility_02_low
 					1 = male_clothes_secular_northern_nobility_01_high
 					1 = male_clothes_secular_northern_nobility_02_high
-					1 = male_clothes_secular_northern_war_nobility_01_common
+					1 = m_clothes_sec_northern_war_nob_01_lo
+					1 = m_clothes_sec_northern_war_nob_01_hi
 					1 = male_clothes_secular_sub_saharan_nobility_01_common
 					1 = male_clothes_secular_sub_saharan_nobility_02_common
 					1 = male_clothes_secular_sub_saharan_nobility_01_low
 					1 = male_clothes_secular_sub_saharan_nobility_02_low
 					1 = male_clothes_secular_sub_saharan_nobility_01_high
 					1 = male_clothes_secular_sub_saharan_nobility_02_high
-					1 = male_clothes_secular_mena_war_nobility_01_low
+					1 = m_clothes_sec_mena_war_nob_01_lo
 					1 = male_clothes_secular_dde_hre_nobility_02_common
 					1 = male_clothes_secular_dde_hre_nobility_03_common
 					1 = male_clothes_secular_dde_hre_nobility_02_low
 					1 = male_clothes_secular_dde_hre_nobility_03_low
-					1 = male_clothes_secular_dde_hre_war_nobility_01_low
+					1 = m_clothes_sec_dde_hre_war_nob_01_lo
 					1 = male_clothes_secular_dde_abbasid_nobility_02_common
 					1 = male_clothes_secular_dde_abbasid_nobility_03_common
 					1 = male_clothes_secular_dde_abbasid_nobility_02_high
 					1 = male_clothes_secular_dde_abbasid_nobility_03_high
-					1 = male_clothes_secular_dde_abbasid_war_nobility_01_low
+					1 = m_clothes_sec_dde_abbasid_war_nob_01_lo
+					1 = m_clothes_sec_dde_abbasid_war_nob_01_hi
+					1 = m_clothes_sec_dde_abbasid_war_nob_01_roy
 					1 = male_clothes_religious_orthodox_high_01
 					1 = male_clothes_religious_orthodox_head_01_common
 					1 = male_clothes_religious_muslim_high_01
@@ -102,7 +109,7 @@ special_genes = {
 					1 = male_clothes_religious_dde_catholic_high_01_common
 					1 = male_clothes_religious_catholic_high_01
 					1 = male_clothes_religious_catholic_head_01
-					1 = male_clothes_religious_northern_high_01_common
+					1 = male_clothes_religious_northern_high_01
 					1 = male_clothes_religious_african_high_01_common
 					1 = male_clothes_religious_hindu_devoted_01
 					1 = male_clothes_religious_buddhist_high_01
@@ -138,22 +145,39 @@ special_genes = {
 					1 = m_clothes_sec_fp3_iranian_nob_02_hi
 					1 = m_clothes_sec_fp3_iranian_nob_03_hi
 					1 = m_clothes_sec_fp3_iranian_war_nob_01
+					1 = m_clothes_sec_afr_common_01
+					1 = m_clothes_sec_afr_common_02
+					1 = m_clothes_sec_afr_low_nob_01 
+					1 = m_clothes_sec_afr_low_nob_02
+					1 = m_clothes_sec_afr_high_nob_01
+					1 = m_clothes_sec_afr_high_nob_02
 				# EP2 #
+				# Era1 #
 					1 = m_clothes_sec_ep2_western_era1_nob_01_lo
 					1 = m_clothes_sec_ep2_western_era1_nob_01_hi
-					1 = m_clothes_sec_ep2_western_era1_nob_02
+					1 = m_clothes_sec_ep2_western_era1_nob_02_lo
+					1 = m_clothes_sec_ep2_western_era1_nob_02_hi
 					1 = m_clothes_sec_ep2_western_era1_war_nob_01_lo
 					1 = m_clothes_sec_ep2_western_era1_war_nob_01_hi
 					1 = m_clothes_sec_ep2_western_era1_war_nob_02_lo
 					1 = m_clothes_sec_ep2_western_era1_war_nob_02_hi
-					1 = m_clothes_sec_ep2_western_era2_war_nob_01
-					1 = m_clothes_sec_ep2_western_era4_war_nob_01
+					# Era2 #
+					1 = m_clothes_sec_ep2_western_era2_war_nob_01_lo
+					1 = m_clothes_sec_ep2_western_era2_war_nob_01_hi
+					# Era4 #
+					1 = m_clothes_sec_ep2_western_era4_war_nob_01_lo
+					1 = m_clothes_sec_ep2_western_era4_war_nob_01_hi
 					1 = m_clothes_sec_ep2_western_era4_war_nob_02_lo
 					1 = m_clothes_sec_ep2_western_era4_war_nob_02_hi					
-					1 = m_clothes_sec_ep2_mena_war_nob_01
-					1 = m_clothes_sec_ep2_steppe_war_nob_01
-					1 = m_clothes_sec_ep2_byzantine_war_nob_01
-					1 = m_clothes_sec_ep2_indian_war_nob_01
+					# Cultures #					
+					1 = m_clothes_sec_ep2_mena_war_nob_01_lo
+					1 = m_clothes_sec_ep2_mena_war_nob_01_hi
+					1 = m_clothes_sec_ep2_steppe_war_nob_01_lo
+					1 = m_clothes_sec_ep2_steppe_war_nob_01_hi
+					1 = m_clothes_sec_ep2_byzantine_war_nob_01_lo
+					1 = m_clothes_sec_ep2_byzantine_war_nob_01_hi
+					1 = m_clothes_sec_ep2_indian_war_nob_01_lo
+					1 = m_clothes_sec_ep2_indian_war_nob_01_hi
 				}
 				
 				female = {
@@ -169,28 +193,32 @@ special_genes = {
 					1 = female_clothes_secular_dde_hre_nobility_01_common
 					1 = female_clothes_secular_dde_hre_nobility_01_low	
 					1 = female_clothes_secular_dde_hre_nobility_01_high
-					1 = female_clothes_secular_western_war_nobility_01_low
+					1 = f_clothes_sec_western_war_nob_01_lo
+					1 = f_clothes_sec_western_war_nob_01_hi
 					1 = female_clothes_situational_western_bedchamber_01_common
 					1 = female_clothes_situational_western_prison_01_common
 					1 = female_clothes_situational_western_stealth_cloak_01
-					1 = female_clothes_secular_crusades_western_war_nobility_01_common
-					1 = female_clothes_secular_crusades_western_war_nobility_02_common
-					1 = female_clothes_secular_crusades_western_war_nobility_03_common
-					1 = female_clothes_secular_crusades_western_war_nobility_04_common
+					1 = f_clothes_sec_crusades_western_war_nob_01_templar
+					1 = f_clothes_sec_crusades_western_war_nob_01_hospitaller
+					1 = f_clothes_sec_crusades_western_war_nob_01_jerusalem
+					1 = f_clothes_sec_crusades_western_war_nob_01_common
 					1 = female_clothes_secular_indian_nobility_01_common
 					1 = female_clothes_secular_indian_nobility_02_common
 					1 = female_clothes_secular_indian_nobility_01_low	
 					1 = female_clothes_secular_indian_nobility_02_low
 					1 = female_clothes_secular_indian_nobility_01_high
 					1 = female_clothes_secular_indian_nobility_02_high
-					1 = female_clothes_secular_indian_war_nobility_01_low
+					1 = f_clothes_sec_indian_war_nob_01_lo
+					1 = f_clothes_sec_indian_war_nob_01_hi
+					1 = f_clothes_sec_indian_war_nob_01_roy
 					1 = female_clothes_secular_byzantine_nobility_01_common
 					1 = female_clothes_secular_byzantine_nobility_02_common
 					1 = female_clothes_secular_byzantine_nobility_01_low
 					1 = female_clothes_secular_byzantine_nobility_02_low
 					1 = female_clothes_secular_byzantine_nobility_01_high
 					1 = female_clothes_secular_byzantine_nobility_02_high
-					1 = female_clothes_secular_byzantine_war_nobility_01_low
+					1 = f_clothes_sec_byzantine_war_nob_01_lo
+					1 = f_clothes_sec_byzantine_war_nob_01_hi
 					1 = female_clothes_secular_steppe_nobility_01_common
 					1 = female_clothes_secular_steppe_nobility_02_common
 					1 = female_clothes_secular_steppe_nobility_01_low
@@ -208,33 +236,39 @@ special_genes = {
 					1 = female_clothes_secular_mena_nobility_01_high
 					1 = female_clothes_secular_mena_nobility_02_high
 					1 = female_clothes_secular_dde_abbasid_nobility_01_high
-					1 = female_clothes_secular_mena_war_nobility_01_low
+					1 = f_clothes_sec_mena_war_nob_01_lo
+					1 = f_clothes_sec_mena_war_nob_01_hi
 					1 = female_clothes_secular_northern_nobility_01_common
 					1 = female_clothes_secular_northern_nobility_02_common
 					1 = female_clothes_secular_northern_nobility_01_low
 					1 = female_clothes_secular_northern_nobility_02_low
 					1 = female_clothes_secular_northern_nobility_01_high
 					1 = female_clothes_secular_northern_nobility_02_high
-					1 = female_clothes_secular_northern_war_nobility_01	
+					1 = f_clothes_sec_northern_war_nob_01_lo
+					1 = f_clothes_sec_northern_war_nob_01_hi	
 					1 = female_clothes_secular_sub_saharan_nobility_01_common
 					1 = female_clothes_secular_sub_saharan_nobility_02_common
 					1 = female_clothes_secular_sub_saharan_nobility_01_low
 					1 = female_clothes_secular_sub_saharan_nobility_02_low	
 					1 = female_clothes_secular_sub_saharan_nobility_01_high
 					1 = female_clothes_secular_sub_saharan_nobility_02_high
-					1 = female_clothes_secular_mena_war_nobility_01_low
+					1 = f_clothes_sec_mena_war_nob_01_lo
+					1 = f_clothes_sec_mena_war_nob_01_hi
 					1 = female_clothes_secular_dde_hre_nobility_02_common
 					1 = female_clothes_secular_dde_hre_nobility_03_common
 					1 = female_clothes_secular_dde_hre_nobility_02_low
 					1 = female_clothes_secular_dde_hre_nobility_03_low
-					1 = female_clothes_secular_dde_hre_war_nobility_01_low
+					1 = f_clothes_sec_dde_hre_war_nob_01_lo
+					1 = f_clothes_sec_dde_hre_war_nob_01_hi
 					1 = female_clothes_secular_dde_abbasid_nobility_02_common
 					1 = female_clothes_secular_dde_abbasid_nobility_03_common
 					1 = female_clothes_secular_dde_abbasid_nobility_02_high
 					1 = female_clothes_secular_dde_abbasid_nobility_03_high
-					1 = female_clothes_secular_dde_abbasid_war_nobility_01_low
+					1 = f_clothes_sec_dde_abbasid_war_nob_01_lo
+					1 = f_clothes_sec_dde_abbasid_war_nob_01_hi
+					1 = f_clothes_sec_dde_abbasid_war_nob_01_roy
 					1 = female_clothes_religious_catholic_devoted_01_common
-					1 = female_clothes_religious_northern_high_01_common
+					1 = female_clothes_religious_northern_high_01
 					1 = female_clothes_religious_african_high_01_common
 					1 = female_clothes_religious_hindu_devoted_01
 					1 = female_clothes_religious_zoroastrian_high_01
@@ -268,27 +302,47 @@ special_genes = {
 					1 = f_clothes_sec_fp3_iranian_nob_02_hi
 					1 = f_clothes_sec_fp3_iranian_nob_03_hi
 					1 = f_clothes_sec_fp3_iranian_war_nob_01
+					1 = f_clothes_sec_afr_high_nob_01
+					1 = f_clothes_sec_afr_high_nob_02
+					1 = f_clothes_sec_afr_low_nob_01
+					1 = f_clothes_sec_afr_low_nob_02
+					1 = f_clothes_sec_afr_common_01
+					1 = f_clothes_sec_afr_common_02
 
-				# EP2 #
-					1 = f_clothes_sec_ep2_western_era1_nob_01
-					1 = f_clothes_sec_ep2_western_era1_nob_02
-					1 = f_clothes_sec_ep2_western_era1_war_nob_01
-					1 = f_clothes_sec_ep2_western_era1_war_nob_02
-					1 = f_clothes_sec_ep2_western_era2_war_nob_01
-					1 = f_clothes_sec_ep2_western_era4_war_nob_01
+					# EP2 #---------------------------------------------------------------------------------------
+					1 = f_clothes_sec_ep2_western_era1_nob_01_lo
+					1 = f_clothes_sec_ep2_western_era1_nob_01_hi
+					1 = f_clothes_sec_ep2_western_era1_nob_02_lo
+					1 = f_clothes_sec_ep2_western_era1_nob_02_hi
+					1 = f_clothes_sec_ep2_western_era1_war_nob_01_lo
+					1 = f_clothes_sec_ep2_western_era1_war_nob_02_hi
+					1 = f_clothes_sec_ep2_western_era2_war_nob_01_lo
+					1 = f_clothes_sec_ep2_western_era2_war_nob_01_hi
+
+					1 = f_clothes_sec_ep2_western_era4_war_nob_01_lo
+					1 = f_clothes_sec_ep2_western_era4_war_nob_01_hi
 					1 = f_clothes_sec_ep2_western_era4_war_nob_02_lo
 					1 = f_clothes_sec_ep2_western_era4_war_nob_02_hi
-					# 1 = f_clothes_sec_ep2_mena_war_nob_01
-					# 1 = f_clothes_sec_ep2_steppe_war_nob_01
-					# 1 = f_clothes_sec_ep2_byzantine_war_nob_01
-					# 1 = f_clothes_sec_ep2_indian_war_nob_01
+					
+					1 = f_clothes_sec_ep2_mena_war_nob_01_lo
+					1 = f_clothes_sec_ep2_mena_war_nob_01_hi
+					1 = f_clothes_sec_ep2_steppe_war_nob_01_lo
+					1 = f_clothes_sec_ep2_steppe_war_nob_01_hi
+					1 = f_clothes_sec_ep2_byzantine_war_nob_01_lo
+					1 = f_clothes_sec_ep2_byzantine_war_nob_01_hi
+					1 = f_clothes_sec_ep2_indian_war_nob_01_lo
+					1 = f_clothes_sec_ep2_indian_war_nob_01_hi
+				
+
+					# CE1 #
+					1 = f_clothes_sec_fp4_western_physician_01
 				}
 				
 				boy = male
 				girl = female
 	 		}
 
-	 		no_clothes = {
+	 		 no_clothes = {
 				index = 1
 				male = {
 					1 = male_clothes_secular_western_nudity_01
@@ -307,1934 +361,2036 @@ special_genes = {
 			}
 
 
-		## WESTERN ##
-
-				western_commoner_clothes = {
-					index = 2
-
-					male = {
-						2 = male_clothes_secular_western_nobility_01_common
-						2 = male_clothes_secular_western_nobility_02_common
-						2 = male_clothes_secular_western_nobility_03_common
-						1 = male_clothes_secular_dde_hre_nobility_01_common
-					}
-
-					female = {
-						2 = female_clothes_secular_western_nobility_01_common
-						2 = female_clothes_secular_western_nobility_02_common
-						2 = female_clothes_secular_western_nobility_03_common
-						1 = female_clothes_secular_dde_hre_nobility_01_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				western_low_nobility_clothes = {
-					index = 3
-
-					male = {
-						2 = male_clothes_secular_western_nobility_01_low
-						2 = male_clothes_secular_western_nobility_02_low
-						2 = male_clothes_secular_western_nobility_03_low
-						1 = male_clothes_secular_dde_hre_nobility_01_low
-					}
-
-					female = {
-						2 = female_clothes_secular_western_nobility_01_low
-						2 = female_clothes_secular_western_nobility_02_low
-						2 = female_clothes_secular_western_nobility_03_low
-						1 = female_clothes_secular_dde_hre_nobility_01_low
-					}
-
-					boy = male
-					girl = female
-				}
-
-				western_high_nobility_clothes = {
-					index = 4
-
-					male = {
-						2 = male_clothes_secular_western_nobility_01_high
-						2 = male_clothes_secular_western_nobility_02_high
-						2 = male_clothes_secular_western_nobility_03_high
-						1 = male_clothes_secular_dde_hre_nobility_01_high
-					}
-
-					female = {
-						2 = female_clothes_secular_western_nobility_01_high
-						2 = female_clothes_secular_western_nobility_02_high
-						2 = female_clothes_secular_western_nobility_03_high
-						1 = female_clothes_secular_dde_hre_nobility_01_high
-					}
-
-					boy = male
-					girl = female
-				}
-
-				western_royalty_clothes = {
-					index = 5
-
-					male = {
-						2 = male_clothes_secular_western_nobility_01_high
-						2 = male_clothes_secular_western_nobility_02_high
-						2 = male_clothes_secular_western_nobility_03_high
-						1 = male_clothes_secular_dde_hre_nobility_01_high
-					}
-
-					female = {
-						2 = female_clothes_secular_western_nobility_01_high
-						2 = female_clothes_secular_western_nobility_02_high
-						2 = female_clothes_secular_western_nobility_03_high
-						1 = female_clothes_secular_dde_hre_nobility_01_high
-					}
-
-					boy = male
-					girl = female
-				}
-
-				western_imperial_clothes = {
-					index = 6
-
-					male = {
-						2 = male_clothes_secular_western_nobility_01_high
-						2 = male_clothes_secular_western_nobility_02_high
-						2 = male_clothes_secular_western_nobility_03_high
-						1 = male_clothes_secular_dde_hre_nobility_01_high
-					}
-
-					female = {
-						2 = female_clothes_secular_western_nobility_01_high
-						2 = female_clothes_secular_western_nobility_02_high
-						2 = female_clothes_secular_western_nobility_03_high
-						1 = female_clothes_secular_dde_hre_nobility_01_high
-					}
-
-					boy = male
-					girl = female
-				}
-
-
-				western_war_nobility_clothes = {
-					index = 7
-
-					male = {
-						1 = m_clothes_sec_western_war_nob_01_lo
-						1 = m_clothes_sec_western_war_nob_01_hi
-					}
-
-					female = {
-						1 = f_clothes_sec_western_war_nob_01_lo
-						1 = f_clothes_sec_western_war_nob_01_hi
-					}
-
-					boy = male
-					girl = female
-				}
-
-
-				western_sickness = {
-					index = 8
-
-					male = {
-						1 = male_clothes_situational_western_bedchamber_01_common
-					}
-
-					female = {
-						1 = female_clothes_situational_western_bedchamber_01_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				western_prison = {
-					index = 9
-
-					male = {
-						1 = male_clothes_situational_western_prison_01_common
-					}
-
-					female = {
-						1 = female_clothes_situational_western_prison_01_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				western_stealth = {
-					index = 10
-
-					male = {
-						1 = male_clothes_situational_western_stealth_cloak_01
-					}
-
-					female = {
-						1 = female_clothes_situational_western_stealth_cloak_01
-					}
-
-					boy = male
-					girl = female
-				}
-
-				western_bedchamber = {
-					index = 11
-
-					male = {
-						1 = male_clothes_situational_western_bedchamber_01_common
-					}
-
-					female = {
-						1 = female_clothes_situational_western_bedchamber_01_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				western_crusades = {
-					index = 12
-
-					male = {
-						1 = m_clothes_sec_crusades_western_war_nob_01_templar
-						1 = m_clothes_sec_crusades_western_war_nob_01_hospitaller
-						1 = m_clothes_sec_crusades_western_war_nob_01_jerusalem
-						1 = m_clothes_sec_crusades_western_war_nob_01_common
-					}
-
-					female = {
-						1 = f_clothes_sec_crusades_western_war_nob_01_templar
-						1 = f_clothes_sec_crusades_western_war_nob_01_hospitaller
-						1 = f_clothes_sec_crusades_western_war_nob_01_jerusalem
-						1 = f_clothes_sec_crusades_western_war_nob_01_common
-
-					}
-
-					boy = male
-					girl = female
-				}
-
-
-		## INDIAN ##
-
-
-
-				indian_commoner_clothes = {
-					index = 13
-
-					male = {
-						1 = male_clothes_secular_indian_nobility_01_common
-						1 = male_clothes_secular_indian_nobility_02_common
-						
-					}
-
-					female = {
-						1 = female_clothes_secular_indian_nobility_01_common
-						1 = female_clothes_secular_indian_nobility_02_common
-					}
-					boy = male
-					girl = female
-				}
-
-				indian_low_nobility_clothes = {
-					index = 14
-
-					male = {
-						1 = male_clothes_secular_indian_nobility_01_low	
-						1 = male_clothes_secular_indian_nobility_02_low				
-					}
-
-					female = {
-						1 = female_clothes_secular_indian_nobility_01_low	
-						1 = female_clothes_secular_indian_nobility_02_low			
-					}
-					boy = male
-					girl = female
-				}
-
-				indian_high_nobility_clothes = {
-					index = 15
-
-					male = {
-						1 = male_clothes_secular_indian_nobility_01_high	
-						1 = male_clothes_secular_indian_nobility_02_high			
-					}
-
-					female = {
-						1 = female_clothes_secular_indian_nobility_01_high
-						1 = female_clothes_secular_indian_nobility_02_high
-					}
-					boy = male
-					girl = female
-				}
-
-				indian_war_nobility_clothes = {
-					index = 16
-
-					male = {
-						1 = m_clothes_sec_indian_war_nob_01_lo
-						1 = m_clothes_sec_indian_war_nob_01_hi
-						1 = m_clothes_sec_indian_war_nob_01_roy
-						
-					}
-
-					female = {
-						1 = f_clothes_sec_indian_war_nob_01_lo
-						1 = f_clothes_sec_indian_war_nob_01_hi
-						1 = f_clothes_sec_indian_war_nob_01_roy
-						
-					}
-					boy = male
-					girl = female
-				}
-
-			
-
-
-
-		## BYZANTINE ##
-
-
-
-				byzantine_commoner_clothes = {
-					index = 17
-
-					male = {
-						1 = male_clothes_secular_byzantine_nobility_01_common
-						1 = male_clothes_secular_byzantine_nobility_02_common
-					}
-
-					female = {
-						1 = female_clothes_secular_byzantine_nobility_01_common
-						1 = female_clothes_secular_byzantine_nobility_02_common
-					}
-					boy = male
-					girl = female
-				}
-
-				byzantine_low_nobility_clothes = {
-					index = 18
-
-					male = {
-						1 = male_clothes_secular_byzantine_nobility_01_low
-						1 = male_clothes_secular_byzantine_nobility_02_low
-					}
-
-					female = {
-						1 = female_clothes_secular_byzantine_nobility_01_low
-						1 = female_clothes_secular_byzantine_nobility_02_low
-					}
-					boy = male
-					girl = female
-				}
-
-				byzantine_high_nobility_clothes = {
-					index = 19
-
-					male = {
-						1 = male_clothes_secular_byzantine_nobility_01_high
-						1 = male_clothes_secular_byzantine_nobility_02_high
-					}
-
-					female = {
-						1 = female_clothes_secular_byzantine_nobility_01_high
-						1 = female_clothes_secular_byzantine_nobility_02_high
-					}
-					boy = male
-					girl = female
-				}
-
-				byzantine_war_nobility_clothes = {
-					index = 20
-
-					male = {
-						1 = m_clothes_sec_byzantine_war_nob_01_lo
-						1 = m_clothes_sec_byzantine_war_nob_01_hi
-						1 = m_clothes_sec_byzantine_war_nob_01_roy
-						
-					}
-
-					female = {
-						1 = f_clothes_sec_byzantine_war_nob_01_lo
-						1 = f_clothes_sec_byzantine_war_nob_01_hi
-						
-					}
-					boy = male
-					girl = female
-				}
-
-
-
-		## STEPPE ##
-
-
-				steppe_commoner_clothes = {
-					index = 21
-
-					male = {
-						1 = male_clothes_secular_steppe_nobility_01_common
-						1 = male_clothes_secular_steppe_nobility_02_common
-					}
-
-					female = {
-						1 = female_clothes_secular_steppe_nobility_01_common
-						1 = female_clothes_secular_steppe_nobility_02_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				steppe_low_nobility_clothes = {
-					index = 22
-
-					male = {
-						1 = male_clothes_secular_steppe_nobility_01_low
-						1 = male_clothes_secular_steppe_nobility_02_low
-						
-					}
-
-					female = {
-						1 = female_clothes_secular_steppe_nobility_01_low
-						1 = female_clothes_secular_steppe_nobility_02_low
-						
-					}
-					boy = male
-					girl = female
-				}
-
-				steppe_high_nobility_clothes = {
-					index = 23
-
-					male = {
-						1 = male_clothes_secular_steppe_nobility_01_high
-						1 = male_clothes_secular_steppe_nobility_02_high
-						
-					}
-
-					female = {
-						1 = female_clothes_secular_steppe_nobility_01_high
-						1 = female_clothes_secular_steppe_nobility_02_high
-						
-					}
-					boy = male
-					girl = female
-				}
-
-				steppe_war_nobility_clothes = {
-					index = 24
-
-					male = {
-						1 = m_clothes_sec_steppe_war_nob_01_lo
-						1 = m_clothes_sec_steppe_war_nob_01_hi
-
-						
-					}
-
-					female = {
-						1 = f_clothes_sec_steppe_war_nob_01_lo
-						1 = f_clothes_sec_steppe_war_nob_01_hi
-						
-					}
-					boy = male
-					girl = female
-				}
-
-
-
-
-
-		## MENA ##
-
-				mena_commoner_clothes = {
-					index = 25
-
-					male = {
-						1 = male_clothes_secular_mena_nobility_01_common
-						1 = male_clothes_secular_mena_nobility_02_common
-						1 = male_clothes_secular_dde_abbasid_nobility_01_common
-
-					}
-
-					female = {
-						1 = female_clothes_secular_mena_nobility_01_common
-						1 = female_clothes_secular_mena_nobility_02_common		
-						1 = female_clothes_secular_dde_abbasid_nobility_01_common	
-					}
-
-					boy = male
-					girl = female
-				}
-
-				mena_low_nobility_clothes = {
-					index = 26
-
-					male = {
-						1 = male_clothes_secular_mena_nobility_01_low
-						1 = male_clothes_secular_mena_nobility_02_low
-						1 = male_clothes_secular_dde_abbasid_nobility_01_low
-
-					}
-
-					female = {
-						1 = female_clothes_secular_mena_nobility_01_low
-						1 = female_clothes_secular_mena_nobility_02_low
-						1 = female_clothes_secular_dde_abbasid_nobility_01_low
-
-					}
-
-					boy = male
-					girl = female
-				}
-
-				mena_high_nobility_clothes = {
-					index = 27
-
-					male = {
-						1 = male_clothes_secular_mena_nobility_01_high
-						1 = male_clothes_secular_mena_nobility_02_high
-						1 = male_clothes_secular_dde_abbasid_nobility_01_high
-						1 = male_clothes_religious_muslim_high_01
-					}
-
-					female = {
-						1 = female_clothes_secular_mena_nobility_01_high
-						1 = female_clothes_secular_mena_nobility_02_high
-						1 = female_clothes_secular_dde_abbasid_nobility_01_high
-
-					}
-
-					boy = male
-					girl = female
-				}
-
-				mena_war_nobility_clothes = {
-					index = 28
-
-					male = {
-						1 = m_clothes_sec_mena_war_nob_01_lo
-						1 = m_clothes_sec_mena_war_nob_01_hi
-					}
-
-					female = {
-						1 = f_clothes_sec_mena_war_nob_01_lo
-						1 = f_clothes_sec_mena_war_nob_01_hi
-					}
-
-					boy = male
-					girl = female
-				}
-
-				mena_sickness = {
-					index = 29
-					male = {
-						1 = male_clothes_situational_western_bedchamber_01_common
-					}
-
-					female = {
-						1 = female_clothes_situational_western_bedchamber_01_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				mena_prison = {
-					index = 30
-
-					male = {
-						1 = male_clothes_situational_western_prison_01_common
-					}
-
-					female = {
-						1 = female_clothes_situational_western_prison_01_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				mena_stealth = {
-					index = 31
-
-					male = {
-						1 = male_clothes_situational_mena_stealth_01
-					}
-
-					female = {
-						1 = female_clothes_situational_mena_stealth_01
-					}
-
-					boy = male
-					girl = female
-				}
-
-				mena_bedchamber = {
-					index = 32
-
-					male = {
-						1 = male_clothes_situational_western_bedchamber_01_common
-					}
-
-					female = {
-						1 = female_clothes_situational_western_bedchamber_01_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-
-				mena_crusades = {
-					index = 33
-
-					male = {
-						1 = male_clothes_secular_mena_war_nobility_01_low
-					}
-
-					female = {
-						1 = female_clothes_secular_mena_war_nobility_01_low
-					}
-
-					boy = male
-					girl = female
-				}
-
-
-		## Northern Pagans ##
-
-
-				northern_commoner_clothes = {
-					index = 34
+	 		## WESTERN ##---------------------------------------------------------------------------------------
 
-					male = {
-						1 = male_clothes_secular_northern_nobility_01_common
-						1 = male_clothes_secular_northern_nobility_02_common
-					}
 
-					female = {
-						1 = female_clothes_secular_northern_nobility_01_common
-						1 = female_clothes_secular_northern_nobility_02_common
-					}
+			western_commoner_clothes = {
+				index = 2
 
-					boy = male
-					girl = female
+				male = {
+					2 = male_clothes_secular_western_nobility_01_common
+					2 = male_clothes_secular_western_nobility_02_common
+					1 = male_clothes_secular_dde_hre_nobility_01_common
 				}
 
-				northern_low_nobility_clothes = {
-					index = 35
-
-					male = {
-						1 = male_clothes_secular_northern_nobility_01_low
-						1 = male_clothes_secular_northern_nobility_02_low
-					}
-
-					female = {
-						1 = female_clothes_secular_northern_nobility_01_low
-						1 = female_clothes_secular_northern_nobility_02_low		
-					}
-					boy = male
-					girl = female
+				female = {
+					2 = female_clothes_secular_western_nobility_01_common
+					2 = female_clothes_secular_western_nobility_02_common
+					1 = female_clothes_secular_dde_hre_nobility_01_common
 				}
 
-				northern_high_nobility_clothes = {
-					index = 36
+				boy = male
+				girl = female
+			}
 
-					male = {
+			western_low_nobility_clothes = {
+				index = 3
 
-						1 = male_clothes_secular_northern_nobility_01_high
-						1 = male_clothes_secular_northern_nobility_02_high
-					}
-
-					female = {
-						1 = female_clothes_secular_northern_nobility_01_high
-						1 = female_clothes_secular_northern_nobility_02_high
-					}
-					boy = male
-					girl = female
-				}
-
-				northern_war_nobility_clothes = {
-					index = 37
-
-					male = {
-						1 = m_clothes_sec_northern_war_nob_01_lo
-						1 = m_clothes_sec_northern_war_nob_01_hi
-					}
-
-					female = {
-						1 = f_clothes_sec_northern_war_nob_01_lo
-						1 = f_clothes_sec_northern_war_nob_01_hi	
-					}
-					boy = male
-					girl = female
-				}
-
-
-		## Sub-Saharan African ##
-
-
-				sub_saharan_commoner_clothes = {
-					index = 38
-
-					male = {
-						1 = male_clothes_secular_sub_saharan_nobility_01_common
-						1 = male_clothes_secular_sub_saharan_nobility_02_common
-					}
-
-					female = {
-						1 = female_clothes_secular_sub_saharan_nobility_01_common
-						1 = female_clothes_secular_sub_saharan_nobility_02_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				sub_saharan_low_nobility_clothes = {
-					index = 39
-
-					male = {
-						1 = male_clothes_secular_sub_saharan_nobility_01_low
-						1 = male_clothes_secular_sub_saharan_nobility_02_low
-					}
-
-					female = {
-						1 = female_clothes_secular_sub_saharan_nobility_01_low
-						1 = female_clothes_secular_sub_saharan_nobility_02_low				
-					}
-					boy = male
-					girl = female
-				}
-
-				sub_saharan_high_nobility_clothes = {
-					index = 40
-
-					male = {
-						1 = male_clothes_secular_sub_saharan_nobility_01_high
-						1 = male_clothes_secular_sub_saharan_nobility_02_high
-					}
-
-					female = {
-						1 = female_clothes_secular_sub_saharan_nobility_01_high
-						1 = female_clothes_secular_sub_saharan_nobility_02_high
-					}
-					boy = male
-					girl = female
-				}
-
-				sub_saharan_war_nobility_clothes = {
-					index = 41
-
-					male = {
-						1 = m_clothes_sec_mena_war_nob_01_lo
-						1 = m_clothes_sec_mena_war_nob_01_hi
-					}
-
-					female = {
-						1 = f_clothes_sec_mena_war_nob_01_lo
-						1 = f_clothes_sec_mena_war_nob_01_hi
-					}
-					boy = male
-					girl = female
-				}
-
-
-		## DDE HRE ##
-
-				dde_hre_commoner_clothes = {
-					index = 42
-
-					male = {
-						# 1 = male_clothes_secular_dde_hre_nobility_01_common
-						1 = male_clothes_secular_dde_hre_nobility_02_common
-						1 = male_clothes_secular_dde_hre_nobility_03_common
-					}
-
-					female = {
-						# 1 = female_clothes_secular_dde_hre_nobility_01_common
-						1 = female_clothes_secular_dde_hre_nobility_02_common
-						1 = female_clothes_secular_dde_hre_nobility_03_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				dde_hre_low_nobility_clothes = {
-					index = 43
-
-					male = {
-						# 1 = male_clothes_secular_dde_hre_nobility_01_low
-						1 = male_clothes_secular_dde_hre_nobility_02_low
-						1 = male_clothes_secular_dde_hre_nobility_03_low
-					}
-
-					female = {
-						# 1 = female_clothes_secular_dde_hre_nobility_01_low
-						1 = female_clothes_secular_dde_hre_nobility_02_low
-						1 = female_clothes_secular_dde_hre_nobility_03_low
-					}
-
-					boy = male
-					girl = female
-				}
-
-				dde_hre_high_nobility_clothes = {
-					index = 44
-
-					male = {
-						# 1 = male_clothes_secular_dde_hre_nobility_01_high
-						1 = male_clothes_secular_dde_hre_nobility_02_high
-						1 = male_clothes_secular_dde_hre_nobility_03_high
-					}
-
-					female = {
-						# 1 = female_clothes_secular_dde_hre_nobility_01_high
-						1 = female_clothes_secular_dde_hre_nobility_02_high
-						1 = female_clothes_secular_dde_hre_nobility_03_high
-					}
-
-					boy = male
-					girl = female
-				}
-
-				dde_hre_war_nobility_clothes = {
-					index = 45
-
-					male = {
-						1 = m_clothes_sec_dde_hre_war_nob_01_lo
-						1 = m_clothes_sec_dde_hre_war_nob_01_hi
-					}
-
-					female = {
-						1 = f_clothes_sec_dde_hre_war_nob_01_lo
-						1 = f_clothes_sec_dde_hre_war_nob_01_hi
-					}
-
-					boy = male
-					girl = female
-				}
-
-
-
-		## DDE ADDASID ##
-
-				dde_abbasid_commoner_clothes = {
-					index = 46
-
-					male = {
-						# 1 = male_clothes_secular_dde_abbasid_nobility_01_common
-						1 = male_clothes_secular_dde_abbasid_nobility_02_common
-						1 = male_clothes_secular_dde_abbasid_nobility_03_common
-					}
-
-					female = {
-						# 1 = female_clothes_secular_dde_abbasid_nobility_01_common
-						1 = female_clothes_secular_dde_abbasid_nobility_02_common
-						1 = female_clothes_secular_dde_abbasid_nobility_03_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				dde_abbasid_low_nobility_clothes = {
-					index = 47
-
-					male = {
-						# 1 = male_clothes_secular_dde_abbasid_nobility_01_low
-						1 = male_clothes_secular_dde_abbasid_nobility_02_low
-						1 = male_clothes_secular_dde_abbasid_nobility_03_low
-					}
-
-					female = {
-						# 1 = female_clothes_secular_dde_abbasid_nobility_01_low
-						1 = female_clothes_secular_dde_abbasid_nobility_02_low
-						1 = female_clothes_secular_dde_abbasid_nobility_03_low
-					}
-
-					boy = male
-					girl = female
-				}
-
-				dde_abbasid_high_nobility_clothes = {
-					index = 48
-
-					male = {
-						# 1 = male_clothes_secular_dde_abbasid_nobility_01_high
-						1 = male_clothes_secular_dde_abbasid_nobility_02_high
-						1 = male_clothes_secular_dde_abbasid_nobility_03_high
-						1 = male_clothes_religious_dde_muslim_head_01_common
-					}
-
-					female = {
-						# 1 = female_clothes_secular_dde_abbasid_nobility_01_high
-						1 = female_clothes_secular_dde_abbasid_nobility_02_high
-						1 = female_clothes_secular_dde_abbasid_nobility_03_high
-					}
-
-					boy = male
-					girl = female
-				}
-
-				dde_abbasid_war_nobility_clothes = {
-					index = 49
-
-					male = {
-						1 = m_clothes_sec_dde_abbasid_war_nob_01_lo
-						1 = m_clothes_sec_dde_abbasid_war_nob_01_hi
-						1 = m_clothes_sec_dde_abbasid_war_nob_01_roy
-					}
-
-					female = {
-						1 = f_clothes_sec_dde_abbasid_war_nob_01_lo
-						1 = f_clothes_sec_dde_abbasid_war_nob_01_hi
-						1 = f_clothes_sec_dde_abbasid_war_nob_01_roy
-					}
-
-					boy = male
-					girl = female
-				}
-
-
-
-
-
-		## RELIGIOUS ##
-
-		# orthodox #
-
-				religious_orthodox_high_clothes = {
-					index = 50
-
-					male = {
-						1 = male_clothes_religious_orthodox_high_01
-					}
-
-					female = {
-						1 = female_clothes_religious_catholic_devoted_01_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				religious_orthodox_head_clothes = {
-					index = 51
-
-					male = {
-						1 = male_clothes_religious_orthodox_head_01_common
-					}
-
-					female = {
-						1 = female_clothes_religious_catholic_devoted_01_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-		# muslim #
-
-				religious_muslim_high_clothes = {
-					index = 52
-
-					male = {
-						1 = male_clothes_religious_muslim_high_01
-
-					}
-
-					female = {
-						1 = female_clothes_secular_mena_nobility_01_high
-					}
-
-					boy = male
-					girl = female
+				male = {
+					2 = male_clothes_secular_western_nobility_01_low
+					2 = male_clothes_secular_western_nobility_02_low
+					1 = male_clothes_secular_dde_hre_nobility_01_low
 				}
-
-				religious_muslim_head_clothes = {
-					index = 53
-
-					male = {
-						1 = male_clothes_religious_dde_muslim_head_01_common
-					}
-
-					female = {
-						1 = female_clothes_secular_mena_nobility_01_high
-					}
 
-					boy = male
-					girl = female
+				female = {
+					2 = female_clothes_secular_western_nobility_01_low
+					2 = female_clothes_secular_western_nobility_02_low
+					1 = female_clothes_secular_dde_hre_nobility_01_low
 				}
-
-
-		# catholic #
-
-				religious_catholic_devoted_clothes = {
-					index = 54
-
-					male = {
-						1 = male_clothes_religious_catholic_devoted_01
-						1 = male_clothes_religious_catholic_devoted_02
-					}
 
-					female = {
-						1 = female_clothes_religious_catholic_devoted_01_common
-					}
+				boy = male
+				girl = female
+			}
 
-					boy = male
-					girl = female
-				}
-
-				religious_catholic_high_clothes = {
-					index = 55
-
-					male = { # Duplicate weights to make seed different from catholic_high headgear gene
-						1 = male_clothes_religious_catholic_high_01
-						2 = male_clothes_religious_dde_catholic_high_01_common
-						1 = male_clothes_religious_catholic_high_01
-						
-					}
-
-					female = {
-						1 = female_clothes_religious_catholic_devoted_01_common
-					}
-
-					boy = male
-					girl = female
-				}
+			western_high_nobility_clothes = {
+				index = 4
 
-				religious_catholic_head_clothes = {
-					index = 56
-					male = {
-						1 = male_clothes_religious_catholic_head_01
-					}
-					female = {
-						1 = female_clothes_religious_catholic_devoted_01_common
-
-					}
-					boy = male
-					girl = female
+				male = {
+					2 = male_clothes_secular_western_nobility_01_high
+					2 = male_clothes_secular_western_nobility_02_high
+					1 = male_clothes_secular_dde_hre_nobility_01_high
 				}
-
-
-
-		# dde catholic #
-
-
-				#religious_dde_catholic_high_clothes = {
-				#	index = 57
-				#
-				#	male = {
-				#		1 = male_clothes_religious_dde_catholic_high_01_common
-				#		
-				#	}
-				#
-				#	female = {
-				#		1 = female_clothes_religious_catholic_devoted_01_common
-				#	}
-				#
-				#	boy = male
-				#	girl = female
-				#}
-
-		# african pagans #
-			
 
-				religious_african_high_clothes = {
-					index = 58
-
-					male = {
-						1 = male_clothes_religious_african_high_01_common
-						
-					}
-
-					female = {
-						1 = female_clothes_religious_african_high_01_common
-					}
-
-					boy = male
-					girl = female
+				female = {
+					2 = female_clothes_secular_western_nobility_01_high
+					2 = female_clothes_secular_western_nobility_02_high
+					1 = female_clothes_secular_dde_hre_nobility_01_high
 				}
-
-		# northern pagans #		
 
-				religious_northern_high_clothes = {
-					index = 59
+				boy = male
+				girl = female
+			}
 
-					male = {
-						1 = male_clothes_religious_northern_high_01
-						
-					}
+			western_royalty_clothes = {
+				index = 5
 
-					female = {
-						1 = female_clothes_religious_northern_high_01
-					}
-
-					boy = male
-					girl = female
+				male = {
+					2 = male_clothes_secular_western_nobility_01_high
+					2 = male_clothes_secular_western_nobility_02_high
+					1 = male_clothes_secular_dde_hre_nobility_01_high
 				}
-
-		# hindu #
-
-
-				religious_hindu_devoted_clothes = {
-					index = 60
-
-					male = {
-						1 = male_clothes_religious_hindu_devoted_01
-						
-					}
 
-					female = {
-						1 = female_clothes_religious_hindu_devoted_01
-					}
-
-					boy = male
-					girl = female
+				female = {
+					2 = female_clothes_secular_western_nobility_01_high
+					2 = female_clothes_secular_western_nobility_02_high
+					1 = female_clothes_secular_dde_hre_nobility_01_high
 				}
-
-
-		# jain #
-
-				religious_jain_high_clothes = {
-					index = 61
 
-					male = {
-						1 = male_clothes_religious_jain_devoted_01
-						
-					}
+				boy = male
+				girl = female
+			}
 
-					female = {
-						1 = female_clothes_religious_jain_devoted_01
-					}
+			western_imperial_clothes = {
+				index = 6
 
-					boy = male
-					girl = female
+				male = {
+					2 = male_clothes_secular_western_nobility_01_high
+					2 = male_clothes_secular_western_nobility_02_high
+					1 = male_clothes_secular_dde_hre_nobility_01_high
 				}
 
-		# buddhist #
-				
-
-				religious_buddhist_high_clothes = {
-					index = 62
-
-					male = {
-						1 = male_clothes_religious_buddhist_high_01
-						
-					}
-
-					female = {
-						1 = female_clothes_religious_hindu_devoted_01
-					}
-
-					boy = male
-					girl = female
+				female = {
+					2 = female_clothes_secular_western_nobility_01_high
+					2 = female_clothes_secular_western_nobility_02_high
+					1 = female_clothes_secular_dde_hre_nobility_01_high
 				}
-
-		# zoroastrian #
-				
 
-				religious_zoroastrian_high_clothes = {
-					index = 63
+				boy = male
+				girl = female
+			}
 
-					male = {
-						1 = male_clothes_religious_zoroastrian_high_01
-						
-					}
 
-					female = {
-						1 = female_clothes_religious_zoroastrian_high_01
-					}
+			western_war_nobility_clothes = {
+				index = 7
 
-					boy = male
-					girl = female
+				male = {
+					1 = m_clothes_sec_western_war_nob_01_lo
+					1 = m_clothes_sec_western_war_nob_01_hi
 				}
 
-
-		# jewish #
-				
-				religious_jewish_head_clothes = {
-					index = 64
-
-					male = {
-						1 = male_clothes_religious_jewish_head_01
-						
-					}
-
-					female = {
-						1 = female_clothes_religious_zoroastrian_high_01
-					}
-
-					boy = male
-					girl = female
+				female = {
+					1 = f_clothes_sec_western_war_nob_01_lo
+					1 = f_clothes_sec_western_war_nob_01_hi
 				}
 
-				religious_jewish_high_clothes = {
-					index = 65
+				boy = male
+				girl = female
+			}
 
-					male = {
-						1 = male_clothes_religious_jewish_high_01
-						
-					}
 
-					female = {
-						1 = female_clothes_religious_zoroastrian_high_01
-					}
+			western_sickness = {
+				index = 8
 
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_situational_western_bedchamber_01_common
 				}
-
-
-		# steppe #
-				
-				religious_steppe_high_clothes = {
-					index = 66
-
-					male = {
-						1 = male_clothes_religious_steppe_high_01_common
-						
-					}
-
-					female = {
-						1 = female_clothes_religious_steppe_high_01_common
-					}
 
-					boy = male
-					girl = female
+				female = {
+					1 = female_clothes_situational_western_bedchamber_01_common
 				}
 
-		### Children ###
+				boy = male
+				girl = female
+			}
 
-				western_children_commoner_clothes = {
-					index = 67
+			western_prison = {
+				index = 9
 
-					male = {
-						2 = male_clothes_secular_western_child_01_common
-					}
-
-					female = {
-						2 = female_clothes_secular_western_child_01_common
-					}
-
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_situational_western_prison_01_common
 				}
-
-		## FP1 - Fury of the Northmen ##
-
 
-				fp1_commoner_clothes = {
-					index = 68
-
-					male = {
-						1 = male_clothes_secular_fp1_common_01
-						1 = male_clothes_secular_fp1_common_02
-					}
-
-					female = {
-						1 = female_clothes_secular_fp1_common_01
-						1 = female_clothes_secular_fp1_common_02
-					}
-
-					boy = male
-					girl = female
+				female = {
+					1 = female_clothes_situational_western_prison_01_common
 				}
 
-				fp1_low_nobility_clothes = {
-					index = 69
-
-					male = {
-						1 = male_clothes_secular_fp1_nobility_01_low 
-						1 = male_clothes_secular_fp1_nobility_02_low
-					}
-
-					female = {
-						1 = female_clothes_secular_fp1_nobility_01_low	
-						1 = female_clothes_secular_fp1_nobility_02_low	
-					}
-					boy = male
-					girl = female
-				}
+				boy = male
+				girl = female
+			}
 
-				fp1_high_nobility_clothes = {
-					index = 70
-
-					male = {
-						1 = male_clothes_secular_fp1_nobility_01_high
-						1 = male_clothes_secular_fp1_nobility_02_high
-					}
-
-					female = {
-						1 = female_clothes_secular_fp1_nobility_01_high
-						1 = female_clothes_secular_fp1_nobility_02_high
-					}
-					boy = male
-					girl = female
-				}
+			western_stealth = {
+				index = 10
 
-				fp1_war_nobility_clothes = {
-					index = 71
-
-					male = {
-						1 = male_clothes_secular_fp1_war_nobility_01
-					}
-
-					female = {
-						1 = female_clothes_secular_fp1_war_nobility_01	
-					}
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_situational_western_stealth_cloak_01
 				}
 
-				ep1_jester_clothes = {
-					index = 72
-
-					male = {
-						1 = male_clothes_secular_ep1_jester_01
-					}
-
-					female = {
-						1 = female_clothes_secular_ep1_jester_01
-					}
-
-					boy = male
-					girl = female
+				female = {
+					1 = female_clothes_situational_western_stealth_cloak_01
 				}
-
-		## FP2 - The Fate of Iberia ##
 
+				boy = male
+				girl = female
+			}
 
-				fp2_muslim_commoner_clothes = {
-					index = 73
+			western_bedchamber = {
+				index = 11
 
-					male = {
-						1 = male_clothes_secular_fp2_iberian_muslim_common_01
-					}
-
-					female = {
-						1 = female_clothes_secular_fp2_iberian_muslim_common_01
-					}
-
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_situational_western_bedchamber_01_common
 				}
-
-
-				fp2_christian_commoner_clothes = {
-					index = 74
-
-					male = {
-						1 = male_clothes_secular_fp2_iberian_christian_common_01
-					}
 
-					female = {
-						1 = female_clothes_secular_fp2_iberian_christian_common_01
-					}
-
-					boy = male
-					girl = female
+				female = {
+					1 = female_clothes_situational_western_bedchamber_01_common
 				}
-
-				fp2_muslim_low_nobility_clothes = {
-					index = 75
 
-					male = {
-						1 = male_clothes_secular_fp2_iberian_muslim_nobility_01_low
-						1 = male_clothes_secular_fp2_iberian_muslim_nobility_02_low
-					}
+				boy = male
+				girl = female
+			}
 
-					female = {
-						1 = female_clothes_secular_fp2_iberian_muslim_nobility_01_low
-						1 = female_clothes_secular_fp2_iberian_muslim_nobility_02_low
+			western_crusades = {
+				index = 12
 
-					}
-					boy = male
-					girl = female
+				male = {
+					1 = m_clothes_sec_crusades_western_war_nob_01_templar
+					1 = m_clothes_sec_crusades_western_war_nob_01_hospitaller
+					1 = m_clothes_sec_crusades_western_war_nob_01_jerusalem
+					1 = m_clothes_sec_crusades_western_war_nob_01_common
 				}
-
-				fp2_muslim_high_nobility_clothes = {
-					index = 76
-
-					male = {
-						1 = male_clothes_secular_fp2_iberian_muslim_nobility_01_high
-						1 = male_clothes_secular_fp2_iberian_muslim_nobility_02_high
-					}
 
-					female = {
-						1 = female_clothes_secular_fp2_iberian_muslim_nobility_01_high	
-						1 = female_clothes_secular_fp2_iberian_muslim_nobility_02_high
+				female = {
+					1 = f_clothes_sec_crusades_western_war_nob_01_templar
+					1 = f_clothes_sec_crusades_western_war_nob_01_hospitaller
+					1 = f_clothes_sec_crusades_western_war_nob_01_jerusalem
+					1 = f_clothes_sec_crusades_western_war_nob_01_common
 
-					}
-					boy = male
-					girl = female
 				}
 
+				boy = male
+				girl = female
+			}
 
-				fp2_christian_low_nobility_clothes = {
-					index = 77
 
-					male = {
-						1 = male_clothes_secular_fp2_iberian_christian_nobility_01_low
-						1 = male_clothes_secular_fp2_iberian_christian_nobility_02_low
-					}
+			## INDIAN ##---------------------------------------------------------------------------------------
 
-					female = {
-						1 = female_clothes_secular_fp2_iberian_christian_nobility_01_low	
-						1 = female_clothes_secular_fp2_iberian_christian_nobility_02_low
 
-					}
-					boy = male
-					girl = female
-				}
-
-				fp2_christian_high_nobility_clothes = {
-					index = 78
 
-					male = {
-						1 = male_clothes_secular_fp2_iberian_christian_nobility_01_high
-						1 = male_clothes_secular_fp2_iberian_christian_nobility_02_high
-					}
-
-					female = {	
-						1 = female_clothes_secular_fp2_iberian_christian_nobility_01_high	
-						1 = female_clothes_secular_fp2_iberian_christian_nobility_02_high
-
-					}
-					boy = male
-					girl = female
-				}
+			indian_commoner_clothes = {
+				index = 13
 
-				fp2_muslim_war_nobility_clothes = {
-					index = 79
-
-					male = {
-						1 = m_clothes_sec_fp2_iberian_muslim_war_nob_01_lo
-						1 = m_clothes_sec_fp2_iberian_muslim_war_nob_01_hi
-					}
-
-					female = {
-						1 = f_clothes_sec_fp2_iberian_muslim_war_nob_01_lo
-						1 = f_clothes_sec_fp2_iberian_muslim_war_nob_01_hi	
-					}
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_secular_indian_nobility_01_common
+					1 = male_clothes_secular_indian_nobility_02_common
 					
-					}
-				
-				fp2_christian_war_nobility_clothes = {
-					index = 80
-
-					male = {
-						1 = m_clothes_sec_fp2_iberian_christian_war_nob_01_lo
-						1 = m_clothes_sec_fp2_iberian_christian_war_nob_01_hi
-
-					}
-
-					female = {
-						1 = f_clothes_sec_fp2_iberian_christian_war_nob_01_lo
-						1 = f_clothes_sec_fp2_iberian_christian_war_nob_01_hi
-					}
-					boy = male
-					girl = female
-
-				}
-				
-				sp2_western_royalty_clothes = {
-					index = 81
-
-					male = {
-						1 = m_clothes_sec_sp2_western_imp_01
-					}
-
-					female = {
-						1 = f_clothes_sec_sp2_western_imp_01
-					}
-					boy = male
-					girl = female
 				}
 
-			# EP2 #
+				female = {
+					1 = female_clothes_secular_indian_nobility_01_common
+					1 = female_clothes_secular_indian_nobility_02_common
+				}
+				boy = male
+				girl = female
+			}
 
-				ep2_western_era1_commoner_clothes = {
-					index = 82
+			indian_low_nobility_clothes = {
+				index = 14
 
-					male = {
-						1 = m_clothes_sec_ep2_western_era1_com_01
-						1 = m_clothes_sec_ep2_western_era1_com_02
-					}
-
-					female = {
-						1 = f_clothes_sec_ep2_western_era1_com_01
-						1 = f_clothes_sec_ep2_western_era1_com_02
-					}
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_secular_indian_nobility_01_low	
+					1 = male_clothes_secular_indian_nobility_02_low				
 				}
 
-				ep2_western_era1_low_nobility_clothes = {
-					index = 83
+				female = {
+					1 = female_clothes_secular_indian_nobility_01_low	
+					1 = female_clothes_secular_indian_nobility_02_low			
+				}
+				boy = male
+				girl = female
+			}
 
-					male = {
-						1 = m_clothes_sec_ep2_western_era1_nob_01_lo
-						1 = m_clothes_sec_ep2_western_era1_nob_02_lo
-					}
+			indian_high_nobility_clothes = {
+				index = 15
 
-					female = {
-						1 = f_clothes_sec_ep2_western_era1_nob_01_lo
-						1 = f_clothes_sec_ep2_western_era1_nob_02_lo
-					}
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_secular_indian_nobility_01_high	
+					1 = male_clothes_secular_indian_nobility_02_high			
 				}
 
-				ep2_western_era1_high_nobility_clothes = {
-					index = 84
-
-					male = {
-						1 = m_clothes_sec_ep2_western_era1_nob_01_hi
-						1 = m_clothes_sec_ep2_western_era1_nob_02_hi
-					}
-
-					female = {
-						1 = f_clothes_sec_ep2_western_era1_nob_01_hi
-						1 = f_clothes_sec_ep2_western_era1_nob_02_hi
-					}
-					boy = male
-					girl = female
+				female = {
+					1 = female_clothes_secular_indian_nobility_01_high
+					1 = female_clothes_secular_indian_nobility_02_high
 				}
-
-				ep2_western_era1_war_nobility_clothes = {
-					index = 85
-
-					male = {
-						1 = m_clothes_sec_ep2_western_era1_war_nob_01_lo
-						1 = m_clothes_sec_ep2_western_era1_war_nob_01_hi
-						1 = m_clothes_sec_ep2_western_era1_war_nob_02_lo
-						1 = m_clothes_sec_ep2_western_era1_war_nob_02_hi
-					}
-
-					female = {
-						1 = f_clothes_sec_ep2_western_era1_war_nob_01_lo
-						1 = f_clothes_sec_ep2_western_era1_war_nob_01_hi
-						1 = f_clothes_sec_ep2_western_era1_war_nob_02_lo
-						1 = f_clothes_sec_ep2_western_era1_war_nob_02_hi
-					}
-
-					boy = male
-					girl = female
-				}
-
-				ep2_western_era2_war_nobility_clothes = {
-					index = 86
-
-					male = {
-						1 = m_clothes_sec_ep2_western_era2_war_nob_01_lo
-						1 = m_clothes_sec_ep2_western_era2_war_nob_01_hi
-					}
-
-					female = {
-						1 = f_clothes_sec_ep2_western_era2_war_nob_01_lo
-						1 = f_clothes_sec_ep2_western_era2_war_nob_01_hi
-					}
-
-					boy = male
-					girl = female
-				}
-
-				ep2_western_era3_low_nobility_clothes = {
-					index = 87
-
-					male = {
-						1 = m_clothes_sec_ep2_western_era3_nob_01_lo
-						1 = m_clothes_sec_ep2_western_era3_nob_02_lo
-					}
-
-					female = {
-						1 = f_clothes_sec_ep2_western_era3_nob_01_lo
-						1 = f_clothes_sec_ep2_western_era3_nob_02_lo
-					}
-					boy = male
-					girl = female
-				}
-
-				ep2_western_era3_high_nobility_clothes = {
-					index = 88
-
-					male = {
-						1 = m_clothes_sec_ep2_western_era3_nob_01_hi
-						1 = m_clothes_sec_ep2_western_era3_nob_02_hi
-						# 1 = m_clothes_sec_ep2_western_era3_nob_02_hi
-					}
-
-					female = {
-						1 = f_clothes_sec_ep2_western_era3_nob_01_hi
-						1 = f_clothes_sec_ep2_western_era3_nob_02_hi
-					}
-					boy = male
-					girl = female
-				}
-				
-
-				ep2_western_era4_war_nobility_clothes = {
-					index = 89
-
-					male = {
-						1 = m_clothes_sec_ep2_western_era4_war_nob_01_lo
-						1 = m_clothes_sec_ep2_western_era4_war_nob_02_lo
-						1 = m_clothes_sec_ep2_western_era4_war_nob_01_hi
-						1 = m_clothes_sec_ep2_western_era4_war_nob_02_hi
-
-					}
-
-					female = {
-						# 1 = f_clothes_sec_ep2_western_era4_war_nob_01
-						1 = f_clothes_sec_ep2_western_era4_war_nob_01_lo
-						1 = f_clothes_sec_ep2_western_era4_war_nob_02_lo
-						1 = f_clothes_sec_ep2_western_era4_war_nob_01_hi
-						1 = f_clothes_sec_ep2_western_era4_war_nob_02_hi
-					}
-
-					boy = male
-					girl = female
-
-				}
-
-				ep2_religious_muslim_hajj_clothes = {
-					index = 90
-
-					male = {
-						1 = m_clothes_religious_ep2_muslim_hajj_01 # Basic
-					}
-
-					female = {
-						1 = f_clothes_religious_ep2_muslim_hajj_01 # Basic
-					}
-
-					boy = male
-					girl = female
-				}
-
-				ep2_religious_muslim_ihram_clothes = {
-					index = 91
-
-					male = {
-						1 = m_clothes_religious_ep2_muslim_hajj_02
-					}
-
-					female = {
-						1 = f_clothes_religious_ep2_muslim_hajj_01 
-					}
-
-					boy = male
-					girl = female
-				}
-
-				ep2_pope_larper_clothes = {
-					index = 92
-
-					male = {
-						1 = male_clothes_religious_catholic_head_01
-						1 = male_headgear_religious_catholic_head_01
-					}
-
-					female = {
-						1 = female_clothes_religious_catholic_devoted_01_common #No female Pope clothes :(
-						1 = female_headgear_religious_catholic_high_01
-					}
-					boy = male
-					girl = female
-				}
-				
-				ep2_cardinal_larper_clothes = {
-					index = 93
-
-					male = {
-						1 = male_clothes_religious_catholic_high_01
-						1 = male_headgear_religious_catholic_high_01
-					}
-
-					female = {
-						1 = female_clothes_religious_catholic_devoted_01_common #No female Cardinal clothes :(
-						1 = female_headgear_religious_catholic_devoted_01
-					}
-					boy = male
-					girl = female
-				}
-
-				ep2_mena_war_nobility_clothes = {
-					index = 94
-
-					male = {
-						1 = m_clothes_sec_ep2_mena_war_nob_01_lo
-						1 = m_clothes_sec_ep2_mena_war_nob_01_hi
-
-					}
-
-					female = {
-						1 = f_clothes_sec_ep2_mena_war_nob_01_lo
-						1 = f_clothes_sec_ep2_mena_war_nob_01_hi
-
-					}
-
-					boy = male
-					girl = female
-				}
-
-				ep2_steppe_war_nobility_clothes = {
-					index = 95
-
-					male = {
-						1 = m_clothes_sec_ep2_steppe_war_nob_01_lo
-						1 = m_clothes_sec_ep2_steppe_war_nob_01_hi
-
-					}
-
-					female = {
-						1 = f_clothes_sec_ep2_steppe_war_nob_01_lo
-						1 = f_clothes_sec_ep2_steppe_war_nob_01_hi
-
-					}
-
-					boy = male
-					girl = female
-
-				}
-
-				ep2_byzantine_war_nobility_clothes = {
-					index = 96
-
-					male = {
-						1 = m_clothes_sec_ep2_byzantine_war_nob_01_lo
-						1 = m_clothes_sec_ep2_byzantine_war_nob_01_hi
-
-					}
-
-					female = {
-						1 = f_clothes_sec_ep2_byzantine_war_nob_01_lo
-						1 = f_clothes_sec_ep2_byzantine_war_nob_01_hi
-
-					}
-
-					boy = male
-					girl = female
-
-				}
-
-				ep2_indian_war_nobility_clothes = {
-					index = 97
-
-					male = {
-						1 = m_clothes_sec_ep2_indian_war_nob_01_lo
-						1 = m_clothes_sec_ep2_indian_war_nob_01_hi
-
-					}
-
-					female = {
-						1 = f_clothes_sec_ep2_indian_war_nob_01_lo
-						1 = f_clothes_sec_ep2_indian_war_nob_01_hi
-
-					}
-
-					boy = male
-					girl = female
-
-				}
-				
-				## FP3 - Sands of Time ##
-
-				fp3_iranian_low_nobility_clothes = {
-					index = 100
-
-					male = {
-						1 = m_clothes_sec_fp3_iranian_nob_01_lo
-						1 = m_clothes_sec_fp3_iranian_nob_02_lo
-						1 = m_clothes_sec_fp3_iranian_nob_03_lo
-					}
-
-					female = {
-						1 = f_clothes_sec_fp3_iranian_nob_01_lo
-						1 = f_clothes_sec_fp3_iranian_nob_02_lo
-						1 = f_clothes_sec_fp3_iranian_nob_03_lo
-					}
-
-					boy = male
-					girl = female
-
-				}	
-
-				fp3_iranian_high_nobility_clothes = {
-					index = 101
-
-					male = {
-						1 = m_clothes_sec_fp3_iranian_nob_01_hi
-						1 = m_clothes_sec_fp3_iranian_nob_02_hi
-						1 = m_clothes_sec_fp3_iranian_nob_03_hi
-					}
-
-					female = {
-						1 = f_clothes_sec_fp3_iranian_nob_01_hi
-						1 = f_clothes_sec_fp3_iranian_nob_02_hi
-						1 = f_clothes_sec_fp3_iranian_nob_03_hi
-					}
-
-					boy = male
-					girl = female
-				}
-
-				fp3_iranian_war_nobility_clothes = {
-					index = 102
-
-					male = {
-						1 = m_clothes_sec_fp3_iranian_war_nob_01
-					}
-
-					female = {
-						1 = f_clothes_sec_fp3_iranian_war_nob_01
-					}
-
-					boy = male
-					girl = female
-				}
-				
-			#############
-			### LOTR ###
-			#############
-				
-			### ROHIRRIM ###
-
-				rohirrim_commoner_clothes = {
-					index = 103
-
-					male = {
-						1 = male_clothes_secular_northern_nobility_01_common
-						1 = male_clothes_secular_northern_nobility_02_common
-					}
-
-					female = {
-						1 = female_clothes_secular_northern_nobility_01_common
-						1 = female_clothes_secular_northern_nobility_02_common
-					}
-
-					boy = male
-					girl = female
-				}
-
-				rohirrim_low_nobility_clothes = {
-					index = 104
-
-					male = {
-						1 = male_clothes_secular_northern_nobility_01_low
-						1 = male_clothes_secular_northern_nobility_02_low
-					}
-
-					female = {
-						1 = female_clothes_secular_northern_nobility_01_low
-						1 = female_clothes_secular_northern_nobility_02_low		
-					}
-					boy = male
-					girl = female
-				}
-
-				rohirrim_high_nobility_clothes = {
-					index = 105
-
-					male = {
-						2 = male_clothes_rohan_nobility
-					}
-
-					female = {
-						1 = female_clothes_secular_northern_nobility_01_high
-						1 = female_clothes_secular_northern_nobility_02_high
-					}
-					boy = male
-					girl = female
-				}
-
-				rohirrim_war_nobility_clothes = {
-					index = 106
-
-					male = {
-						2 = male_clothes_rohan_guard
-					}
-
-					female = {
-						1 = f_clothes_sec_northern_war_nob_01_lo
-					}
-					boy = male
-					girl = female
-				}		
-			
-				theoden_clothes = {
-					index = 107
-
-					male = {
-						2 = male_clothes_theoden
-					}
-
-					female = {
-						1 = female_clothes_secular_northern_nobility_01_high
-						1 = female_clothes_secular_northern_nobility_02_high
-					}
-
-					boy = male
-					girl = female
-				}
-			
-			### MAIA ###
-				maia_saruman_clothes = {
-					index = 108
+				boy = male
+				girl = female
+			}
+
+			indian_war_nobility_clothes = {
+				index = 16
+
+				male = {
+					1 = m_clothes_sec_indian_war_nob_01_lo
+					1 = m_clothes_sec_indian_war_nob_01_hi
+					1 = m_clothes_sec_indian_war_nob_01_roy
 					
-					male = {
-						2 = male_clothes_maia_saruman
-					}
+				}
+
+				female = {
+					1 = f_clothes_sec_indian_war_nob_01_lo
+					1 = f_clothes_sec_indian_war_nob_01_hi
+					1 = f_clothes_sec_indian_war_nob_01_roy
 					
-					female = {
-						1 = female_clothes_religious_northern_high_01_common
-					}
-					boy = male
-					girl = female	
+				}
+				boy = male
+				girl = female
+			}
+
+		
+			## BYZANTINE ##---------------------------------------------------------------------------------------
+
+
+
+	 		byzantine_commoner_clothes = {
+				index = 17
+
+				male = {
+					1 = male_clothes_secular_byzantine_nobility_01_common
+					1 = male_clothes_secular_byzantine_nobility_02_common
+				}
+
+				female = {
+					1 = female_clothes_secular_byzantine_nobility_01_common
+					1 = female_clothes_secular_byzantine_nobility_02_common
+				}
+				boy = male
+				girl = female
+			}
+
+	 		byzantine_low_nobility_clothes = {
+				index = 18
+
+				male = {
+					1 = male_clothes_secular_byzantine_nobility_01_low
+					1 = male_clothes_secular_byzantine_nobility_02_low
+				}
+
+				female = {
+					1 = female_clothes_secular_byzantine_nobility_01_low
+					1 = female_clothes_secular_byzantine_nobility_02_low
+				}
+				boy = male
+				girl = female
+			}
+
+	 		byzantine_high_nobility_clothes = {
+				index = 19
+
+				male = {
+					1 = male_clothes_secular_byzantine_nobility_01_high
+					1 = male_clothes_secular_byzantine_nobility_02_high
+				}
+
+				female = {
+					1 = female_clothes_secular_byzantine_nobility_01_high
+					1 = female_clothes_secular_byzantine_nobility_02_high
+				}
+				boy = male
+				girl = female
+			}
+
+			byzantine_war_nobility_clothes = {
+				index = 20
+
+				male = {
+					1 = m_clothes_sec_byzantine_war_nob_01_lo
+					1 = m_clothes_sec_byzantine_war_nob_01_hi
+					1 = m_clothes_sec_byzantine_war_nob_01_roy
+					
+				}
+
+				female = {
+					1 = f_clothes_sec_byzantine_war_nob_01_lo
+					1 = f_clothes_sec_byzantine_war_nob_01_hi
+					
+				}
+				boy = male
+				girl = female
+			}
+
+
+	## STEPPE ##---------------------------------------------------------------------------------------
+
+
+			steppe_commoner_clothes = {
+				index = 21
+
+				male = {
+					1 = male_clothes_secular_steppe_nobility_01_common
+					1 = male_clothes_secular_steppe_nobility_02_common
+				}
+
+				female = {
+					1 = female_clothes_secular_steppe_nobility_01_common
+					1 = female_clothes_secular_steppe_nobility_02_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			 steppe_low_nobility_clothes = {
+				index = 22
+
+				male = {
+					1 = male_clothes_secular_steppe_nobility_01_low
+					1 = male_clothes_secular_steppe_nobility_02_low
+					
+				}
+
+				female = {
+					1 = female_clothes_secular_steppe_nobility_01_low
+					1 = female_clothes_secular_steppe_nobility_02_low
+					
+				}
+				boy = male
+				girl = female
+			}
+
+			steppe_high_nobility_clothes = {
+				index = 23
+
+				male = {
+					1 = male_clothes_secular_steppe_nobility_01_high
+					1 = male_clothes_secular_steppe_nobility_02_high
+					
+				}
+
+				female = {
+					1 = female_clothes_secular_steppe_nobility_01_high
+					1 = female_clothes_secular_steppe_nobility_02_high
+					
+				}
+				boy = male
+				girl = female
+			}
+
+			steppe_war_nobility_clothes = {
+				index = 24
+
+				male = {
+					1 = m_clothes_sec_steppe_war_nob_01_lo
+					1 = m_clothes_sec_steppe_war_nob_01_hi
+
+					
+				}
+
+				female = {
+					1 = f_clothes_sec_steppe_war_nob_01_lo
+					1 = f_clothes_sec_steppe_war_nob_01_hi
+					
+				}
+				boy = male
+				girl = female
+			}
+
+
+
+	## MENA ##---------------------------------------------------------------------------------------
+
+
+
+			mena_commoner_clothes = {
+				index = 25
+
+				male = {
+					1 = male_clothes_secular_mena_nobility_01_common
+					1 = male_clothes_secular_mena_nobility_02_common
+					1 = male_clothes_secular_dde_abbasid_nobility_01_common
+
+				}
+
+				female = {
+					1 = female_clothes_secular_mena_nobility_01_common
+					1 = female_clothes_secular_mena_nobility_02_common		
+					1 = female_clothes_secular_dde_abbasid_nobility_01_common	
+				}
+
+				boy = male
+				girl = female
+			}
+
+			mena_low_nobility_clothes = {
+				index = 26
+
+				male = {
+					1 = male_clothes_secular_mena_nobility_01_low
+					1 = male_clothes_secular_mena_nobility_02_low
+					1 = male_clothes_secular_dde_abbasid_nobility_01_low
+
+				}
+
+				female = {
+					1 = female_clothes_secular_mena_nobility_01_low
+					1 = female_clothes_secular_mena_nobility_02_low
+					1 = female_clothes_secular_dde_abbasid_nobility_01_low
+
+				}
+
+				boy = male
+				girl = female
+			}
+
+			mena_high_nobility_clothes = {
+				index = 27
+
+				male = {
+					1 = male_clothes_secular_mena_nobility_01_high
+					1 = male_clothes_secular_mena_nobility_02_high
+					1 = male_clothes_secular_dde_abbasid_nobility_01_high
+					1 = male_clothes_religious_muslim_high_01
+				}
+
+				female = {
+					1 = female_clothes_secular_mena_nobility_01_high
+					1 = female_clothes_secular_mena_nobility_02_high
+					1 = female_clothes_secular_dde_abbasid_nobility_01_high
+
+				}
+
+				boy = male
+				girl = female
+			}
+
+			mena_war_nobility_clothes = {
+				index = 28
+
+				male = {
+					1 = m_clothes_sec_mena_war_nob_01_lo
+					1 = m_clothes_sec_mena_war_nob_01_hi
+				}
+
+				female = {
+					1 = f_clothes_sec_mena_war_nob_01_lo
+					1 = f_clothes_sec_mena_war_nob_01_hi
+				}
+
+				boy = male
+				girl = female
+			}
+
+			mena_sickness = {
+				index = 29
+				male = {
+					1 = male_clothes_situational_western_bedchamber_01_common
+				}
+
+				female = {
+					1 = female_clothes_situational_western_bedchamber_01_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			mena_prison = {
+				index = 30
+
+				male = {
+					1 = male_clothes_situational_western_prison_01_common
+				}
+
+				female = {
+					1 = female_clothes_situational_western_prison_01_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			mena_stealth = {
+				index = 31
+
+				male = {
+					1 = male_clothes_situational_mena_stealth_01
+				}
+
+				female = {
+					1 = female_clothes_situational_mena_stealth_01
+				}
+
+				boy = male
+				girl = female
+			}
+
+			mena_bedchamber = {
+				index = 32
+
+				male = {
+					1 = male_clothes_situational_western_bedchamber_01_common
+				}
+
+				female = {
+					1 = female_clothes_situational_western_bedchamber_01_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+
+			mena_crusades = {
+				index = 33
+
+				male = {
+					1 = m_clothes_sec_mena_war_nob_01_lo
+				}
+
+				female = {
+					1 = f_clothes_sec_mena_war_nob_01_lo
+				}
+
+				boy = male
+				girl = female
+			}
+
+
+	## Northern Pagans ##---------------------------------------------------------------------------------------
+
+
+			northern_commoner_clothes = {
+				index = 34
+
+				male = {
+					1 = male_clothes_secular_northern_nobility_01_common
+					1 = male_clothes_secular_northern_nobility_02_common
+				}
+
+				female = {
+					1 = female_clothes_secular_northern_nobility_01_common
+					1 = female_clothes_secular_northern_nobility_02_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			 northern_low_nobility_clothes = {
+				index = 35
+
+				male = {
+					1 = male_clothes_secular_northern_nobility_01_low
+					1 = male_clothes_secular_northern_nobility_02_low
+				}
+
+				female = {
+					1 = female_clothes_secular_northern_nobility_01_low
+					1 = female_clothes_secular_northern_nobility_02_low		
+				}
+				boy = male
+				girl = female
+			}
+
+			northern_high_nobility_clothes = {
+				index = 36
+
+				male = {
+
+					1 = male_clothes_secular_northern_nobility_01_high
+					1 = male_clothes_secular_northern_nobility_02_high
+				}
+
+				female = {
+					1 = female_clothes_secular_northern_nobility_01_high
+					1 = female_clothes_secular_northern_nobility_02_high
+				}
+				boy = male
+				girl = female
+			}
+
+			northern_war_nobility_clothes = {
+				index = 37
+
+				male = {
+					1 = m_clothes_sec_northern_war_nob_01_lo
+					1 = m_clothes_sec_northern_war_nob_01_hi
+				}
+
+				female = {
+					1 = f_clothes_sec_northern_war_nob_01_lo
+					1 = f_clothes_sec_northern_war_nob_01_hi	
+				}
+				boy = male
+				girl = female
+			}
+
+
+	## Sub-Saharan African ##---------------------------------------------------------------------------------------
+
+
+			sub_saharan_commoner_clothes = {
+				index = 38
+
+				male = {
+					1 = male_clothes_secular_sub_saharan_nobility_01_common
+					1 = male_clothes_secular_sub_saharan_nobility_02_common
+				}
+
+				female = {
+					1 = female_clothes_secular_sub_saharan_nobility_01_common
+					1 = female_clothes_secular_sub_saharan_nobility_02_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			sub_saharan_low_nobility_clothes = {
+				index = 39
+
+				male = {
+					1 = male_clothes_secular_sub_saharan_nobility_01_low
+					1 = male_clothes_secular_sub_saharan_nobility_02_low
+				}
+
+				female = {
+					1 = female_clothes_secular_sub_saharan_nobility_01_low
+					1 = female_clothes_secular_sub_saharan_nobility_02_low				
+				}
+				boy = male
+				girl = female
+			}
+
+			sub_saharan_high_nobility_clothes = {
+				index = 40
+
+				male = {
+					1 = male_clothes_secular_sub_saharan_nobility_01_high
+					1 = male_clothes_secular_sub_saharan_nobility_02_high
+				}
+
+				female = {
+					1 = female_clothes_secular_sub_saharan_nobility_01_high
+					1 = female_clothes_secular_sub_saharan_nobility_02_high
+				}
+				boy = male
+				girl = female
+			}
+
+			sub_saharan_war_nobility_clothes = {
+				index = 41
+
+				male = {
+					1 = m_clothes_sec_mena_war_nob_01_lo
+					1 = m_clothes_sec_mena_war_nob_01_hi
+				}
+
+				female = {
+					1 = f_clothes_sec_mena_war_nob_01_lo
+					1 = f_clothes_sec_mena_war_nob_01_hi
+				}
+				boy = male
+				girl = female
+			}
+
+
+	## DDE HRE ##---------------------------------------------------------------------------------------
+
+			dde_hre_commoner_clothes = {
+				index = 42
+
+				male = {
+					# 1 = male_clothes_secular_dde_hre_nobility_01_common
+					1 = male_clothes_secular_dde_hre_nobility_02_common
+					1 = male_clothes_secular_dde_hre_nobility_03_common
+				}
+
+				female = {
+					# 1 = female_clothes_secular_dde_hre_nobility_01_common
+					1 = female_clothes_secular_dde_hre_nobility_02_common
+					1 = female_clothes_secular_dde_hre_nobility_03_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			dde_hre_low_nobility_clothes = {
+				index = 43
+
+				male = {
+					# 1 = male_clothes_secular_dde_hre_nobility_01_low
+					1 = male_clothes_secular_dde_hre_nobility_02_low
+					1 = male_clothes_secular_dde_hre_nobility_03_low
+				}
+
+				female = {
+					# 1 = female_clothes_secular_dde_hre_nobility_01_low
+					1 = female_clothes_secular_dde_hre_nobility_02_low
+					1 = female_clothes_secular_dde_hre_nobility_03_low
+				}
+
+				boy = male
+				girl = female
+			}
+
+			dde_hre_high_nobility_clothes = {
+				index = 44
+
+				male = {
+					# 1 = male_clothes_secular_dde_hre_nobility_01_high
+					1 = male_clothes_secular_dde_hre_nobility_02_high
+					1 = male_clothes_secular_dde_hre_nobility_03_high
+				}
+
+				female = {
+					# 1 = female_clothes_secular_dde_hre_nobility_01_high
+					1 = female_clothes_secular_dde_hre_nobility_02_high
+					1 = female_clothes_secular_dde_hre_nobility_03_high
+				}
+
+				boy = male
+				girl = female
+			}
+
+			dde_hre_war_nobility_clothes = {
+				index = 45
+
+				male = {
+					1 = m_clothes_sec_dde_hre_war_nob_01_lo
+					1 = m_clothes_sec_dde_hre_war_nob_01_hi
+				}
+
+				female = {
+					1 = f_clothes_sec_dde_hre_war_nob_01_lo
+					1 = f_clothes_sec_dde_hre_war_nob_01_hi
+				}
+
+				boy = male
+				girl = female
+			}
+
+
+
+	## DDE ADDASID ##---------------------------------------------------------------------------------------
+
+			dde_abbasid_commoner_clothes = {
+				index = 46
+
+				male = {
+					# 1 = male_clothes_secular_dde_abbasid_nobility_01_common
+					1 = male_clothes_secular_dde_abbasid_nobility_02_common
+					1 = male_clothes_secular_dde_abbasid_nobility_03_common
+				}
+
+				female = {
+					# 1 = female_clothes_secular_dde_abbasid_nobility_01_common
+					1 = female_clothes_secular_dde_abbasid_nobility_02_common
+					1 = female_clothes_secular_dde_abbasid_nobility_03_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			dde_abbasid_low_nobility_clothes = {
+				index = 47
+
+				male = {
+					# 1 = male_clothes_secular_dde_abbasid_nobility_01_low
+					1 = male_clothes_secular_dde_abbasid_nobility_02_low
+					1 = male_clothes_secular_dde_abbasid_nobility_03_low
+				}
+
+				female = {
+					# 1 = female_clothes_secular_dde_abbasid_nobility_01_low
+					1 = female_clothes_secular_dde_abbasid_nobility_02_low
+					1 = female_clothes_secular_dde_abbasid_nobility_03_low
+				}
+
+				boy = male
+				girl = female
+			}
+
+			dde_abbasid_high_nobility_clothes = {
+				index = 48
+
+				male = {
+					# 1 = male_clothes_secular_dde_abbasid_nobility_01_high
+					1 = male_clothes_secular_dde_abbasid_nobility_02_high
+					1 = male_clothes_secular_dde_abbasid_nobility_03_high
+					1 = male_clothes_religious_dde_muslim_head_01_common
+				}
+
+				female = {
+					# 1 = female_clothes_secular_dde_abbasid_nobility_01_high
+					1 = female_clothes_secular_dde_abbasid_nobility_02_high
+					1 = female_clothes_secular_dde_abbasid_nobility_03_high
+				}
+
+				boy = male
+				girl = female
+			}
+
+			dde_abbasid_war_nobility_clothes = {
+				index = 49
+
+				male = {
+					1 = m_clothes_sec_dde_abbasid_war_nob_01_lo
+					1 = m_clothes_sec_dde_abbasid_war_nob_01_hi
+					1 = m_clothes_sec_dde_abbasid_war_nob_01_roy
+				}
+
+				female = {
+					1 = f_clothes_sec_dde_abbasid_war_nob_01_lo
+					1 = f_clothes_sec_dde_abbasid_war_nob_01_hi
+					1 = f_clothes_sec_dde_abbasid_war_nob_01_roy
+				}
+
+				boy = male
+				girl = female
+			}
+
+
+
+
+
+				#---------------------------------------------------------------------- ## RELIGIOUS ## -----------------------------------------------------------------------
+
+	# orthodox #
+
+			religious_orthodox_high_clothes = {
+				index = 50
+
+				male = {
+					1 = male_clothes_religious_orthodox_high_01
+				}
+
+				female = {
+					1 = female_clothes_religious_catholic_devoted_01_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			religious_orthodox_head_clothes = {
+				index = 51
+
+				male = {
+					1 = male_clothes_religious_orthodox_head_01_common
+				}
+
+				female = {
+					1 = female_clothes_religious_catholic_devoted_01_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+	# muslim #
+
+			religious_muslim_high_clothes = {
+				index = 52
+
+				male = {
+					1 = male_clothes_religious_muslim_high_01
+
+				}
+
+				female = {
+					1 = female_clothes_secular_mena_nobility_01_high
+				}
+
+				boy = male
+				girl = female
+			}
+
+			religious_muslim_head_clothes = {
+				index = 53
+
+				male = {
+					1 = male_clothes_religious_dde_muslim_head_01_common
+				}
+
+				female = {
+					1 = female_clothes_secular_mena_nobility_01_high
+				}
+
+				boy = male
+				girl = female
+			}
+
+
+	# catholic #
+
+			religious_catholic_devoted_clothes = {
+				index = 54
+
+				male = {
+					1 = male_clothes_religious_catholic_devoted_01_dominican
+					1 = male_clothes_religious_catholic_devoted_02_franciscan
+					1 = male_clothes_religious_catholic_devoted_02_benedictine
+				}
+
+				female = {
+					1 = female_clothes_religious_catholic_devoted_01_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			religious_catholic_high_clothes = {
+				index = 55
+
+				male = { # Duplicate weights to make seed different from catholic_high headgear gene
+					1 = male_clothes_religious_catholic_high_01
+					2 = male_clothes_religious_dde_catholic_high_01_common
+					1 = male_clothes_religious_catholic_high_01
+					
+				}
+
+				female = {
+					1 = female_clothes_religious_catholic_devoted_01_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			religious_catholic_head_clothes = {
+				index = 56
+				male = {
+					1 = male_clothes_religious_catholic_head_01
+				}
+				female = {
+					1 = female_clothes_religious_catholic_devoted_01_common
+
+				}
+				boy = male
+				girl = female
+			}
+
+
+
+	# dde catholic #
+
+
+			#religious_dde_catholic_high_clothes = {
+			#	index = 57
+			#
+			#	male = {
+			#		1 = male_clothes_religious_dde_catholic_high_01_common
+			#		
+			#	}
+			#
+			#	female = {
+			#		1 = female_clothes_religious_catholic_devoted_01_common
+			#	}
+			#
+			#	boy = male
+			#	girl = female
+			#}
+
+	# african pagans #
+		
+
+			religious_african_high_clothes = {
+				index = 58
+
+				male = {
+					1 = male_clothes_religious_african_high_01_common
+					
+				}
+
+				female = {
+					1 = female_clothes_religious_african_high_01_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+	# northern pagans #		
+
+			 religious_northern_high_clothes = {
+				index = 59
+
+				male = {
+					1 = male_clothes_religious_northern_high_01
+					
+				}
+
+				female = {
+					1 = female_clothes_religious_northern_high_01
+				}
+
+				boy = male
+				girl = female
+			}
+
+	# hindu #
+
+
+			 religious_hindu_devoted_clothes = {
+				index = 60
+
+				male = {
+					1 = male_clothes_religious_hindu_devoted_01
+					
+				}
+
+				female = {
+					1 = female_clothes_religious_hindu_devoted_01
+				}
+
+				boy = male
+				girl = female
+			}
+
+
+	# jain #
+
+			 religious_jain_high_clothes = {
+				index = 61
+
+				male = {
+					1 = male_clothes_religious_jain_devoted_01
+					
+				}
+
+				female = {
+					1 = female_clothes_religious_jain_devoted_01
+				}
+
+				boy = male
+				girl = female
+			}
+
+	 # buddhist #
+			
+
+			religious_buddhist_high_clothes = {
+				index = 62
+
+				male = {
+					1 = male_clothes_religious_buddhist_high_01
+					
+				}
+
+				female = {
+					1 = female_clothes_religious_hindu_devoted_01
+				}
+
+				boy = male
+				girl = female
+			}
+
+	# zoroastrian #
+			
+
+			religious_zoroastrian_high_clothes = {
+				index = 63
+
+				male = {
+					1 = male_clothes_religious_zoroastrian_high_01
+					
+				}
+
+				female = {
+					1 = female_clothes_religious_zoroastrian_high_01
+				}
+
+				boy = male
+				girl = female
+			}
+
+
+	 # jewish #
+			
+			religious_jewish_head_clothes = {
+				index = 64
+
+				male = {
+					1 = male_clothes_religious_jewish_head_01
+					
+				}
+
+				female = {
+					1 = female_clothes_religious_zoroastrian_high_01
+				}
+
+				boy = male
+				girl = female
+			}
+
+			religious_jewish_high_clothes = {
+				index = 65
+
+				male = {
+					1 = male_clothes_religious_jewish_high_01
+					
+				}
+
+				female = {
+					1 = female_clothes_religious_zoroastrian_high_01
+				}
+
+				boy = male
+				girl = female
+			}
+
+
+	 # steppe #
+			
+			religious_steppe_high_clothes = {
+				index = 66
+
+				male = {
+					1 = male_clothes_religious_steppe_high_01_common
+					
+				}
+
+				female = {
+					1 = female_clothes_religious_steppe_high_01_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+	### Children ###
+
+			western_children_commoner_clothes = {
+				index = 67
+
+				male = {
+					2 = male_clothes_situational_western_bedchamber_01_common
+				}
+
+				female = {
+					2 = female_clothes_situational_western_bedchamber_01_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+	# THIS IS USED FOR EMPTY AN SPACE = {
+			# 	index = 68
+
+			# 	male = {
+			# 		1 =
+			# 	}
+
+			# 	female = {
+			#		1 =
+			# 	}
+
+			# 	boy = male
+			# 	girl = female
+			# }	
+
+	## FP1 - Fury of the Northmen ##-------------------------------------------------------------------------------
+
+
+			fp1_commoner_clothes = {
+				index = 69
+
+				male = {
+					1 = male_clothes_secular_fp1_common_01
+					1 = male_clothes_secular_fp1_common_02
+				}
+
+				female = {
+					1 = female_clothes_secular_fp1_common_01
+					1 = female_clothes_secular_fp1_common_02
+				}
+
+				boy = male
+				girl = female
+			}
+
+			 fp1_low_nobility_clothes = {
+				index = 70
+
+				male = {
+					1 = male_clothes_secular_fp1_nobility_01_low 
+					1 = male_clothes_secular_fp1_nobility_02_low
+				}
+
+				female = {
+					1 = female_clothes_secular_fp1_nobility_01_low	
+					1 = female_clothes_secular_fp1_nobility_02_low	
+				}
+				boy = male
+				girl = female
+			}
+
+			fp1_high_nobility_clothes = {
+				index = 71
+
+				male = {
+					1 = male_clothes_secular_fp1_nobility_01_high
+					1 = male_clothes_secular_fp1_nobility_02_high
+				}
+
+				female = {
+					1 = female_clothes_secular_fp1_nobility_01_high
+					1 = female_clothes_secular_fp1_nobility_02_high
+				}
+				boy = male
+				girl = female
+			}
+
+			fp1_war_nobility_clothes = {
+				index = 72
+
+				male = {
+					1 = male_clothes_secular_fp1_war_nobility_01
+				}
+
+				female = {
+					1 = female_clothes_secular_fp1_war_nobility_01	
+				}
+				boy = male
+				girl = female
+			}
+
+			ep1_jester_clothes = {
+				index = 73
+
+				male = {
+					1 = male_clothes_secular_ep1_jester_01
+				}
+
+				female = {
+					1 = female_clothes_secular_ep1_jester_01
+				}
+
+				boy = male
+				girl = female
+			}
+
+	## FP2 - The Fate of Iberia ##-------------------------------------------------------------------------------
+
+
+			fp2_muslim_commoner_clothes = {
+				index = 74
+
+				male = {
+					1 = male_clothes_secular_fp2_iberian_muslim_common_01
+				}
+
+				female = {
+					1 = female_clothes_secular_fp2_iberian_muslim_common_01
+				}
+
+				boy = male
+				girl = female
+			}
+
+
+			fp2_christian_commoner_clothes = {
+				index = 75
+
+				male = {
+					1 = male_clothes_secular_fp2_iberian_christian_common_01
+				}
+
+				female = {
+					1 = female_clothes_secular_fp2_iberian_christian_common_01
+				}
+
+				boy = male
+				girl = female
+			}
+
+			fp2_muslim_low_nobility_clothes = {
+				index = 76
+
+				male = {
+					1 = male_clothes_secular_fp2_iberian_muslim_nobility_01_low
+					1 = male_clothes_secular_fp2_iberian_muslim_nobility_02_low
+				}
+
+				female = {
+					1 = female_clothes_secular_fp2_iberian_muslim_nobility_01_low
+					1 = female_clothes_secular_fp2_iberian_muslim_nobility_02_low
+
+				}
+				boy = male
+				girl = female
+			}
+
+			fp2_muslim_high_nobility_clothes = {
+				index = 77
+
+				male = {
+					1 = male_clothes_secular_fp2_iberian_muslim_nobility_01_high
+					1 = male_clothes_secular_fp2_iberian_muslim_nobility_02_high
+				}
+
+				female = {
+					1 = female_clothes_secular_fp2_iberian_muslim_nobility_01_high	
+					1 = female_clothes_secular_fp2_iberian_muslim_nobility_02_high
+
+				}
+				boy = male
+				girl = female
+			}
+
+
+			fp2_christian_low_nobility_clothes = {
+				index = 78
+
+				male = {
+					1 = male_clothes_secular_fp2_iberian_christian_nobility_01_low
+					1 = male_clothes_secular_fp2_iberian_christian_nobility_02_low
+				}
+
+				female = {
+					1 = female_clothes_secular_fp2_iberian_christian_nobility_01_low	
+					1 = female_clothes_secular_fp2_iberian_christian_nobility_02_low
+
+				}
+				boy = male
+				girl = female
+			}
+
+			fp2_christian_high_nobility_clothes = {
+				index = 79
+
+				male = {
+					1 = male_clothes_secular_fp2_iberian_christian_nobility_01_high
+					1 = male_clothes_secular_fp2_iberian_christian_nobility_02_high
+				}
+
+				female = {	
+					1 = female_clothes_secular_fp2_iberian_christian_nobility_01_high	
+					1 = female_clothes_secular_fp2_iberian_christian_nobility_02_high
+
+				}
+				boy = male
+				girl = female
+			}
+
+			fp2_muslim_war_nobility_clothes = {
+				index = 80
+
+				male = {
+					1 = m_clothes_sec_fp2_iberian_muslim_war_nob_01_lo
+					1 = m_clothes_sec_fp2_iberian_muslim_war_nob_01_hi
+				}
+
+				female = {
+					1 = f_clothes_sec_fp2_iberian_muslim_war_nob_01_lo
+					1 = f_clothes_sec_fp2_iberian_muslim_war_nob_01_hi	
+				}
+				boy = male
+				girl = female
+				
 				}
 			
-			### URUKHAI ###
+			fp2_christian_war_nobility_clothes = {
+				index = 81
+
+				male = {
+					1 = m_clothes_sec_fp2_iberian_christian_war_nob_01_lo
+					1 = m_clothes_sec_fp2_iberian_christian_war_nob_01_hi
+
+				}
+
+				female = {
+					1 = f_clothes_sec_fp2_iberian_christian_war_nob_01_lo
+					1 = f_clothes_sec_fp2_iberian_christian_war_nob_01_hi
+				}
+				boy = male
+				girl = female
+
+			}
 			
-				uruk_berserker_clothes = {
-					index = 109
+			sp2_western_royalty_clothes = {
+				index = 82
 
-					male = {
-					}
+				male = {
+					1 = m_clothes_sec_sp2_western_imp_01
+				}
 
-					female = {
-						2 = female_clothes_uruk_berserker
-					}
+				female = {
+				 	1 = f_clothes_sec_sp2_western_imp_01
+				}
+				boy = male
+				girl = female
+			}
 
-					boy = male
-					girl = female
-				}	
-				
-				uruk_soldier_clothes = {
-					index = 110
+			# THIS IS USED FOR AN EMPTY SPACE = {
+			# 	index = 83
 
-					male = {
-						2 = male_clothes_uruk_isengard_soldier_1
-						2 = male_clothes_uruk_isengard_soldier_2
-					}
+			# 	male = {
+			# 		1 = 
+			# 	}
 
-					female = {
-						2 = female_clothes_uruk_isengard_soldier_1
-						2 = female_clothes_uruk_isengard_soldier_2
-					}
+			# 	female = {
+			# 	 	1 = 
+			# 	}
+			# 	boy = male
+			# 	girl = female
+			# }
 
-					boy = male
-					girl = female
-				}	
+	 ### EP2 Tours and Tournaments ###-------------------------------------------------------------------------------
+
+
+		# Era1 #---------------------------------------------------------
+			ep2_western_era1_commoner_clothes = {
+				index = 84
+
+				male = {
+					1 = m_clothes_sec_ep2_western_era1_com_01
+					1 = m_clothes_sec_ep2_western_era1_com_02
+				}
+
+				female = {
+					1 = f_clothes_sec_ep2_western_era1_com_01
+					1 = f_clothes_sec_ep2_western_era1_com_02
+				}
+				boy = male
+				girl = female
+			}
+
+			ep2_western_era1_low_nobility_clothes = {
+				index = 85
+
+				male = {
+					1 = m_clothes_sec_ep2_western_era1_nob_01_lo
+					1 = m_clothes_sec_ep2_western_era1_nob_02_lo
+				}
+
+				female = {
+					1 = f_clothes_sec_ep2_western_era1_nob_01_lo
+					1 = f_clothes_sec_ep2_western_era1_nob_02_lo
+				}
+				boy = male
+				girl = female
+			}
+
+			ep2_western_era1_high_nobility_clothes = {
+				index = 86
+
+				male = {
+					1 = m_clothes_sec_ep2_western_era1_nob_01_hi
+					1 = m_clothes_sec_ep2_western_era1_nob_02_hi
+				}
+
+				female = {
+					1 = f_clothes_sec_ep2_western_era1_nob_01_hi
+					1 = f_clothes_sec_ep2_western_era1_nob_02_hi
+				}
+				boy = male
+				girl = female
+			}
+
+			ep2_western_era1_war_nobility_clothes = {
+				index = 87
+
+				male = {
+					1 = m_clothes_sec_ep2_western_era1_war_nob_01_lo
+					1 = m_clothes_sec_ep2_western_era1_war_nob_01_hi
+					1 = m_clothes_sec_ep2_western_era1_war_nob_02_lo
+					1 = m_clothes_sec_ep2_western_era1_war_nob_02_hi
+				}
+
+				female = {
+				 	1 = f_clothes_sec_ep2_western_era1_war_nob_01_lo
+				 	1 = f_clothes_sec_ep2_western_era1_war_nob_01_hi
+				 	1 = f_clothes_sec_ep2_western_era1_war_nob_02_lo
+				 	1 = f_clothes_sec_ep2_western_era1_war_nob_02_hi
+				}
+
+				boy = male
+				girl = female
+			}
+
+			# Era2 #-----------------------------------------------------------
+			ep2_western_era2_war_nobility_clothes = {
+				index = 88
+
+				male = {
+					1 = m_clothes_sec_ep2_western_era2_war_nob_01_lo
+					1 = m_clothes_sec_ep2_western_era2_war_nob_01_hi
+				}
+
+				female = {
+				 	1 = f_clothes_sec_ep2_western_era2_war_nob_01_lo
+				 	1 = f_clothes_sec_ep2_western_era2_war_nob_01_hi
+				}
+
+				boy = male
+				girl = female
+			}
+
+			# Era3 #-----------------------------------------------------------
+			ep2_western_era3_low_nobility_clothes = {
+				index = 89
+
+				male = {
+					1 = m_clothes_sec_ep2_western_era3_nob_01_lo
+					1 = m_clothes_sec_ep2_western_era3_nob_02_lo
+				}
+
+				female = {
+					1 = f_clothes_sec_ep2_western_era3_nob_01_lo
+					1 = f_clothes_sec_ep2_western_era3_nob_02_lo
+				}
+				boy = male
+				girl = female
+			}
+
+			ep2_western_era3_high_nobility_clothes = {
+				index = 90
+
+				male = {
+					1 = m_clothes_sec_ep2_western_era3_nob_01_hi
+					1 = m_clothes_sec_ep2_western_era3_nob_02_hi
+					# 1 = m_clothes_sec_ep2_western_era3_nob_02_hi
+				}
+
+				female = {
+					1 = f_clothes_sec_ep2_western_era3_nob_01_hi
+					1 = f_clothes_sec_ep2_western_era3_nob_02_hi
+				}
+				boy = male
+				girl = female
+			}
+			
+			# Era4 #-------------------------------------------------------------
+			ep2_western_era4_war_nobility_clothes = {
+				index = 91
+
+				male = {
+					1 = m_clothes_sec_ep2_western_era4_war_nob_01_lo
+					1 = m_clothes_sec_ep2_western_era4_war_nob_02_lo
+					1 = m_clothes_sec_ep2_western_era4_war_nob_01_hi
+					1 = m_clothes_sec_ep2_western_era4_war_nob_02_hi
+
+				}
+
+				female = {
+					# 1 = f_clothes_sec_ep2_western_era4_war_nob_01
+					1 = f_clothes_sec_ep2_western_era4_war_nob_01_lo
+					1 = f_clothes_sec_ep2_western_era4_war_nob_02_lo
+					1 = f_clothes_sec_ep2_western_era4_war_nob_01_hi
+					1 = f_clothes_sec_ep2_western_era4_war_nob_02_hi
+				}
+
+				boy = male
+				girl = female
+
+			}
+
+			# Religious #--------------------------------------------------------------
+			ep2_religious_muslim_hajj_clothes = {
+				index = 92
+
+				male = {
+					1 = m_clothes_religious_ep2_muslim_hajj_01 # Basic
+				}
+
+				female = {
+				 	1 = f_clothes_religious_ep2_muslim_hajj_01 # Basic
+				}
+
+				boy = male
+				girl = female
+			}
+
+			ep2_religious_muslim_ihram_clothes = {
+				index = 93
+
+				male = {
+					1 = m_clothes_religious_ep2_muslim_hajj_02
+				}
+
+				female = {
+				 	1 = f_clothes_religious_ep2_muslim_hajj_01 
+				}
+
+				boy = male
+				girl = female
+			}
+
+			ep2_pope_larper_clothes = {
+				index = 94
+
+				male = {
+					1 = male_clothes_religious_catholic_head_01
+					1 = male_headgear_religious_catholic_head_01
+				}
+
+				female = {
+					1 = female_clothes_religious_catholic_devoted_01_common #No female Pope clothes :(
+					1 = female_headgear_religious_catholic_high_01
+				}
+				boy = male
+				girl = female
+			}
+			
+			ep2_cardinal_larper_clothes = {
+				index = 95
+
+				male = {
+					1 = male_clothes_religious_catholic_high_01
+					1 = male_headgear_religious_catholic_high_01
+				}
+
+				female = {
+					1 = female_clothes_religious_catholic_devoted_01_common #No female Cardinal clothes :(
+					1 = female_headgear_religious_catholic_devoted_01
+				}
+				boy = male
+				girl = female
+			}
+
+			# Mena #--------------------------------------------------------------
+			ep2_mena_war_nobility_clothes = {
+				index = 96
+
+				male = {
+					1 = m_clothes_sec_ep2_mena_war_nob_01_lo
+					1 = m_clothes_sec_ep2_mena_war_nob_01_hi
+
+				}
+
+				female = {
+					1 = f_clothes_sec_ep2_mena_war_nob_01_lo
+					1 = f_clothes_sec_ep2_mena_war_nob_01_hi
+
+				}
+
+				boy = male
+				girl = female
+			}
+
+			# Steppe #-------------------------------------------------------------
+			ep2_steppe_war_nobility_clothes = {
+				index = 97
+
+				male = {
+					1 = m_clothes_sec_ep2_steppe_war_nob_01_lo
+					1 = m_clothes_sec_ep2_steppe_war_nob_01_hi
+
+				}
+
+				female = {
+				 	1 = f_clothes_sec_ep2_steppe_war_nob_01_lo
+				 	1 = f_clothes_sec_ep2_steppe_war_nob_01_hi
+
+				}
+
+				boy = male
+				girl = female
+
+			}
+
+			# Byzantine #-----------------------------------------------------------
+			ep2_byzantine_war_nobility_clothes = {
+				index = 98
+
+				male = {
+					1 = m_clothes_sec_ep2_byzantine_war_nob_01_lo
+					1 = m_clothes_sec_ep2_byzantine_war_nob_01_hi
+
+				}
+
+				female = {
+				 	1 = f_clothes_sec_ep2_byzantine_war_nob_01_lo
+				 	1 = f_clothes_sec_ep2_byzantine_war_nob_01_hi
+
+				}
+
+				boy = male
+				girl = female
+
+			}
+
+			# Indian #---------------------------------------------------------------
+			ep2_indian_war_nobility_clothes = {
+				index = 99
+
+				male = {
+					1 = m_clothes_sec_ep2_indian_war_nob_01_lo
+					1 = m_clothes_sec_ep2_indian_war_nob_01_hi
+
+				}
+
+				female = {
+				 	1 = f_clothes_sec_ep2_indian_war_nob_01_lo
+				 	1 = f_clothes_sec_ep2_indian_war_nob_01_hi
+
+				}
+
+				boy = male
+				girl = female
+
+			}
+			# THIS IS USED FOR AN EMPTY SPACE = {
+			# 	index = 100
+
+			# 	male = {
+			# 		1 = 
+			# 	}
+
+			# 	female = {
+			# 	 	1 = 
+			# 	}
+			# 	boy = male
+			# 	girl = female
+			# }
+
+			## FP3 - Legacy of Persia ##-------------------------------
+
+			fp3_iranian_low_nobility_clothes = {
+				index = 101
+
+				male = {
+					1 = m_clothes_sec_fp3_iranian_nob_01_lo
+					1 = m_clothes_sec_fp3_iranian_nob_02_lo
+					1 = m_clothes_sec_fp3_iranian_nob_03_lo
+				}
+
+				female = {
+					1 = f_clothes_sec_fp3_iranian_nob_01_lo
+					1 = f_clothes_sec_fp3_iranian_nob_02_lo
+					1 = f_clothes_sec_fp3_iranian_nob_03_lo
+				}
+
+				boy = male
+				girl = female
+			}	
+
+			fp3_iranian_high_nobility_clothes = {
+				index = 102
+
+				male = {
+					1 = m_clothes_sec_fp3_iranian_nob_01_hi
+					1 = m_clothes_sec_fp3_iranian_nob_02_hi
+					1 = m_clothes_sec_fp3_iranian_nob_03_hi
+				}
+
+				female = {
+					1 = f_clothes_sec_fp3_iranian_nob_01_hi
+					1 = f_clothes_sec_fp3_iranian_nob_02_hi
+					1 = f_clothes_sec_fp3_iranian_nob_03_hi
+				}
+
+				boy = male
+				girl = female
+			}
+
+			fp3_iranian_war_nobility_clothes = {
+				index = 103
+
+				male = {
+					1 = m_clothes_sec_fp3_iranian_war_nob_01
+				}
+
+				female = {
+					1 = f_clothes_sec_fp3_iranian_war_nob_01
+				}
+
+				boy = male
+				girl = female
+			}
+			
+			
+			## AFR ##
+			
+			afr_commoner_clothes = {
+				index = 104
+
+				male = {
+					1 = m_clothes_sec_afr_common_01
+					1 = m_clothes_sec_afr_common_02
+				}
+
+				female = {
+					1 = f_clothes_sec_afr_common_01
+					1 = f_clothes_sec_afr_common_02
+				}
+
+				boy = male
+				girl = female
+			}
+
+			afr_low_nobility_clothes = {
+				index = 105
+
+				male = {
+					1 = m_clothes_sec_afr_low_nob_01
+					1 = m_clothes_sec_afr_low_nob_02
+				}
+
+				female = {
+					1 = f_clothes_sec_afr_low_nob_01
+					1 = f_clothes_sec_afr_low_nob_02
+				}
+				boy = male
+				girl = female
+			}
+
+			afr_high_nobility_clothes = {
+				index = 106
+
+				male = {
+					1 = m_clothes_sec_afr_high_nob_01
+					1 = m_clothes_sec_afr_high_nob_02
+				}
+
+				female = {
+					1 = f_clothes_sec_afr_high_nob_01
+					1 = f_clothes_sec_afr_high_nob_02
+				}
+				boy = male
+				girl = female
+			}
+
+			afr_war_nobility_clothes = {
+				index = 107
+
+				male = {
+					1 = m_clothes_sec_afr_war_nob_01
+				}
+
+				female = {
+					1 = f_clothes_sec_afr_war_nob_01
+				}
+				boy = male
+				girl = female
+			}
+			
+			sp3_western_royalty_clothes = {
+				index = 108
+
+				male = {
+					1 = m_clothes_sec_sp3_western_roy_01
+				}
+
+				female = {
+					1 = f_clothes_sec_sp3_western_roy_01
+				}
+				boy = male
+				girl = female
+			}
+			
+			## CE1 - Legends of the Dead ##-------------------------------
+
+			fp4_western_era2_low_nobility_clothes = {
+				index = 109
+
+				male = {
+				}
+
+				female = {
+				 	1 = f_clothes_sec_fp4_western_era2_nob_01_lo
+				}
+
+				boy = male
+				girl = female
+			}
+
+			fp4_western_era2_high_nobility_clothes = {
+				index = 110
+
+				male = {
+				}
+
+				female = {
+				 	1 = f_clothes_sec_fp4_western_era2_nob_01_hi
+				}
+
+				boy = male
+				girl = female
+			}
+
+			fp4_western_era3_commoner_clothes = {
+				index = 111
+
+				male = {
+					1 = m_clothes_sec_fp4_western_era3_nob_02_lo
+					1 = m_clothes_sec_fp4_western_era3_nob_03_lo
+				}
+
+				female = {
+				 	1 = f_clothes_sec_fp4_western_era3_nob_02_lo
+				}
+
+				boy = male
+				girl = female
+			}
+
+			fp4_western_era3_low_nobility_clothes = {
+				index = 112
+
+				male = {
+					1 = m_clothes_sec_fp4_western_era3_nob_01_lo
+					1 = m_clothes_sec_fp4_western_era3_nob_02_lo
+					1 = m_clothes_sec_fp4_western_era3_nob_03_lo
+				}
+
+				female = {
+				 	1 = f_clothes_sec_fp4_western_era3_nob_02_lo
+				}
+
+				boy = male
+				girl = female
+			}
+
+			fp4_western_era3_high_nobility_clothes = {
+				index = 113
+
+				male = {
+					1 = m_clothes_sec_fp4_western_era3_nob_01_hi
+					1 = m_clothes_sec_fp4_western_era3_nob_02_hi
+					1 = m_clothes_sec_fp4_western_era3_nob_03_hi
+				}
+
+				female = {
+				 	1 = f_clothes_sec_fp4_western_era3_nob_02_hi
+				}
+
+				boy = male
+				girl = female
+			}
+
+			fp4_western_bedchamber_clothes = {
+				index = 114
+
+				male = {
+					1 = m_clothes_sec_fp4_western_bedchamber_02_lo
+					1 = m_clothes_sec_fp4_western_bedchamber_02_hi
+				}
+
+				female = {
+				 	1 = f_clothes_sec_fp4_western_bedchamber_02_lo
+				 	1 = f_clothes_sec_fp4_western_bedchamber_03_lo
+				}
+
+				boy = male
+				girl = female
+			}	
+
+			fp4_western_physician_01 = {
+				index = 115
+
+				male = {
+					1 = m_clothes_sec_fp4_western_physician_01
+				}
+
+				female = {
+				 	1 = f_clothes_sec_fp4_western_physician_01
+				}
+
+				boy = male
+				girl = female
+			}
+			
+		#############
+		 ### LOTR ###
+		#############
 			
 		### GONDORIAN ###
 			gondorian_commoner_clothes = {
-				index = 111
+				index = 116
 
 				male = {
 					2 = male_clothes_gondorian_nobility_01_common
@@ -2255,7 +2411,7 @@ special_genes = {
 			}
 
 			gondorian_low_nobility_clothes = {
-				index = 112
+				index = 117
 
 				male = {
 					2 = male_clothes_gondorian_nobility_01_low
@@ -2276,7 +2432,7 @@ special_genes = {
 			}
 
 			gondorian_high_nobility_clothes = {
-				index = 113
+				index = 118
 
 				male = {
 					2 = male_clothes_gondorian_nobility_01_high
@@ -2297,7 +2453,7 @@ special_genes = {
 			}
 
 			gondorian_royalty_clothes = {
-				index = 114
+				index = 119
 
 				male = {
 					2 = male_clothes_gondorian_nobility_01_high
@@ -2318,7 +2474,7 @@ special_genes = {
 			}
 
 			gondorian_imperial_clothes = {
-				index = 115
+				index = 120
 
 				male = {
 					2 = male_clothes_gondorian_nobility_01_high
@@ -2339,15 +2495,14 @@ special_genes = {
 			}
 
 			gondorian_war_nobility_clothes = {
-				index = 116
+				index = 121
 
 				male = {
 					1 = male_clothes_gondorian_war_01
 				}
 
 				female = {
-					# 1 = female_clothes_gondorian_war_01 # Temp for v3.3
-					1 = f_clothes_sec_western_war_nob_01_hi
+					1 = female_clothes_gondorian_war_01
 				}
 
 				boy = male
@@ -2355,7 +2510,7 @@ special_genes = {
 			}
 
 			gondorian_war_imperial_clothes = {
-				index = 117
+				index = 122
 
 				male = {
 					1 = male_clothing_arnor_royalarmour_01
@@ -2373,516 +2528,572 @@ special_genes = {
 			}
 			
 		### NUMENOREAN ###
-				numenorean_commoner_clothes = {
-					index = 118
+			numenorean_commoner_clothes = {
+				index = 123
 
-					male = {
-						2 = male_clothes_gondorian_nobility_01_common
-						2 = male_clothes_gondorian_nobility_02_common
-						2 = male_clothes_gondorian_nobility_03_common
-						1 = male_clothes_gondorian_nobility_04_common
-					}
-
-					female = {
-						2 = female_clothes_gondorian_nobility_01_common
-						2 = female_clothes_gondorian_nobility_02_common
-						2 = female_clothes_gondorian_nobility_03_common
-						1 = female_clothes_gondorian_nobility_04_common
-					}
-
-					boy = male
-					girl = female
+				male = {
+					2 = male_clothes_gondorian_nobility_01_common
+					2 = male_clothes_gondorian_nobility_02_common
+					2 = male_clothes_gondorian_nobility_03_common
+					1 = male_clothes_gondorian_nobility_04_common
 				}
 
-				numenorean_low_nobility_clothes = {
-					index = 119
-
-					male = {
-						2 = male_clothes_gondorian_nobility_01_low
-						2 = male_clothes_gondorian_nobility_02_low
-						2 = male_clothes_gondorian_nobility_03_low
-						1 = male_clothes_gondorian_nobility_04_low
-					}
-
-					female = {
-						2 = female_clothes_gondorian_nobility_01_low
-						2 = female_clothes_gondorian_nobility_02_low
-						2 = female_clothes_gondorian_nobility_03_low
-						1 = female_clothes_gondorian_nobility_04_low
-					}
-
-					boy = male
-					girl = female
+				female = {
+					2 = female_clothes_gondorian_nobility_01_common
+					2 = female_clothes_gondorian_nobility_02_common
+					2 = female_clothes_gondorian_nobility_03_common
+					1 = female_clothes_gondorian_nobility_04_common
 				}
 
-				numenorean_high_nobility_clothes = {
-					index = 120
+				boy = male
+				girl = female
+			}
 
-					male = {
-						2 = male_clothes_gondorian_nobility_01_high
-						2 = male_clothes_gondorian_nobility_02_high
-						2 = male_clothes_gondorian_nobility_03_high
-						1 = male_clothes_gondorian_nobility_04_high
-					}
+			numenorean_low_nobility_clothes = {
+				index = 124
 
-					female = {
-						2 = female_clothes_gondorian_nobility_01_high
-						2 = female_clothes_gondorian_nobility_02_high
-						2 = female_clothes_gondorian_nobility_03_high
-						1 = female_clothes_gondorian_nobility_04_high
-					}
-
-					boy = male
-					girl = female
+				male = {
+					2 = male_clothes_gondorian_nobility_01_low
+					2 = male_clothes_gondorian_nobility_02_low
+					2 = male_clothes_gondorian_nobility_03_low
+					1 = male_clothes_gondorian_nobility_04_low
 				}
 
-				numenorean_royalty_clothes = {
-					index = 121
-
-					male = {
-						2 = male_clothes_gondorian_nobility_01_high
-						2 = male_clothes_gondorian_nobility_02_high
-						2 = male_clothes_gondorian_nobility_03_high
-						1 = male_clothes_gondorian_nobility_04_high
-					}
-
-					female = {
-						2 = female_clothes_gondorian_nobility_01_high
-						2 = female_clothes_gondorian_nobility_02_high
-						2 = female_clothes_gondorian_nobility_03_high
-						1 = female_clothes_gondorian_nobility_04_high
-					}
-
-					boy = male
-					girl = female
+				female = {
+					2 = female_clothes_gondorian_nobility_01_low
+					2 = female_clothes_gondorian_nobility_02_low
+					2 = female_clothes_gondorian_nobility_03_low
+					1 = female_clothes_gondorian_nobility_04_low
 				}
 
-				numenorean_imperial_clothes = {
-					index = 122
+				boy = male
+				girl = female
+			}
 
-					male = {
-						2 = male_clothes_gondorian_nobility_01_high
-						2 = male_clothes_gondorian_nobility_02_high
-						2 = male_clothes_gondorian_nobility_03_high
-						1 = male_clothes_gondorian_nobility_04_high
-					}
+			numenorean_high_nobility_clothes = {
+				index = 125
 
-					female = {
-						2 = female_clothes_gondorian_nobility_01_high
-						2 = female_clothes_gondorian_nobility_02_high
-						2 = female_clothes_gondorian_nobility_03_high
-						1 = female_clothes_gondorian_nobility_04_high
-					}
-
-					boy = male
-					girl = female
+				male = {
+					2 = male_clothes_gondorian_nobility_01_high
+					2 = male_clothes_gondorian_nobility_02_high
+					2 = male_clothes_gondorian_nobility_03_high
+					1 = male_clothes_gondorian_nobility_04_high
 				}
 
-				numenorean_war_nobility_clothes = {
-					index = 123
-
-					male = {
-						1 = male_clothes_gondorian_war_nobility_01_low
-					}
-
-					female = {
-						1 = female_clothes_gondorian_war_nobility_01_low
-					}
-
-					boy = male
-					girl = female
+				female = {
+					2 = female_clothes_gondorian_nobility_01_high
+					2 = female_clothes_gondorian_nobility_02_high
+					2 = female_clothes_gondorian_nobility_03_high
+					1 = female_clothes_gondorian_nobility_04_high
 				}
-		
+
+				boy = male
+				girl = female
+			}
+
+			numenorean_royalty_clothes = {
+				index = 126
+
+				male = {
+					2 = male_clothes_gondorian_nobility_01_high
+					2 = male_clothes_gondorian_nobility_02_high
+					2 = male_clothes_gondorian_nobility_03_high
+					1 = male_clothes_gondorian_nobility_04_high
+				}
+
+				female = {
+					2 = female_clothes_gondorian_nobility_01_high
+					2 = female_clothes_gondorian_nobility_02_high
+					2 = female_clothes_gondorian_nobility_03_high
+					1 = female_clothes_gondorian_nobility_04_high
+				}
+
+				boy = male
+				girl = female
+			}
+
+			numenorean_imperial_clothes = {
+				index = 127
+
+				male = {
+					2 = male_clothes_gondorian_nobility_01_high
+					2 = male_clothes_gondorian_nobility_02_high
+					2 = male_clothes_gondorian_nobility_03_high
+					1 = male_clothes_gondorian_nobility_04_high
+				}
+
+				female = {
+					2 = female_clothes_gondorian_nobility_01_high
+					2 = female_clothes_gondorian_nobility_02_high
+					2 = female_clothes_gondorian_nobility_03_high
+					1 = female_clothes_gondorian_nobility_04_high
+				}
+
+				boy = male
+				girl = female
+			}
+
+			numenorean_war_nobility_clothes = {
+				index = 128
+
+				male = {
+					1 = male_clothes_gondorian_war_nobility_01_low
+				}
+
+				female = {
+					1 = female_clothes_gondorian_war_nobility_01_low
+				}
+
+				boy = male
+				girl = female
+			}
+	
 		### DUNEDAIN ###
-				dunedain_commoner_clothes = {
-					index = 124
+			dunedain_commoner_clothes = {
+				index = 129
 
-					male = {
-						1 = male_clothes_secular_northern_nobility_01_common
-						1 = male_clothes_secular_northern_nobility_02_common
-					}
-
-					female = {
-						1 = female_clothes_secular_northern_nobility_01_common
-						1 = female_clothes_secular_northern_nobility_02_common
-					}
-
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_secular_western_nobility_03_common 
 				}
 
-				dunedain_low_nobility_clothes = {
-					index = 125
-
-					male = {
-						1 = male_clothes_secular_northern_nobility_01_low
-						1 = male_clothes_secular_northern_nobility_02_low
-					}
-
-					female = {
-						1 = female_clothes_secular_northern_nobility_01_low
-						1 = female_clothes_secular_northern_nobility_02_low		
-					}
-					boy = male
-					girl = female
+				female = {
+					1 = female_clothes_secular_western_nobility_03_common
 				}
 
-				dunedain_high_nobility_clothes = {
-					index = 126
+				boy = male
+				girl = female
+			}
+			
+			dunedain_low_nobility_clothes = {
+				index = 130
 
-					male = {
-
-						1 = male_clothes_secular_northern_nobility_01_high
-						1 = male_clothes_secular_northern_nobility_02_high
-					}
-
-					female = {
-						1 = female_clothes_secular_northern_nobility_01_high
-						1 = female_clothes_secular_northern_nobility_02_high
-					}
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_secular_western_nobility_03_low
 				}
 
-				dunedain_war_nobility_clothes = {
-					index = 127
-
-					male = {
-						1 = male_clothes_secular_northern_war_nobility_01_common
-					}
-
-					female = {
-						1 = f_clothes_sec_northern_war_nob_01_lo	
-					}
-					boy = male
-					girl = female
-				}		
-		
-		### HARADRIM ###
-				haradrim_commoner_clothes = {
-					index = 128
-
-					male = {
-						1 = male_clothes_secular_mena_nobility_01_common
-						1 = male_clothes_secular_mena_nobility_02_common
-						1 = male_clothes_secular_dde_abbasid_nobility_01_common
+				female = {
+					1 = female_clothes_secular_western_nobility_03_low
+				}
 				
-					}
+				boy = male
+				girl = female
+			}
 
-					female = {
-						1 = female_clothes_secular_mena_nobility_01_common
-						1 = female_clothes_secular_mena_nobility_02_common		
-						1 = female_clothes_secular_dde_abbasid_nobility_01_common	
-					}
+			dunedain_high_nobility_clothes = {
+				index = 131
 
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_secular_western_nobility_03_high
 				}
 
-				haradrim_low_nobility_clothes = {
-					index = 129
+				female = {
+					1 = female_clothes_secular_western_nobility_03_high
+				}
+				
+				boy = male
+				girl = female
+			}
 
-					male = {
-						1 = male_clothes_secular_mena_nobility_01_low
-						1 = male_clothes_secular_mena_nobility_02_low
-						1 = male_clothes_secular_dde_abbasid_nobility_01_low
+			dunedain_royalty_clothes = {
+				index = 132
 
-					}
-
-					female = {
-						1 = female_clothes_secular_mena_nobility_01_low
-						1 = female_clothes_secular_mena_nobility_02_low
-						1 = female_clothes_secular_dde_abbasid_nobility_01_low
-
-					}
-
-					boy = male
-					girl = female
+				male = {
+					2 = male_clothes_gondorian_nobility_01_high
+					2 = male_clothes_gondorian_nobility_02_high
+					2 = male_clothes_gondorian_nobility_03_high
+					1 = male_clothes_gondorian_nobility_04_high
 				}
 
-				haradrim_high_nobility_clothes = {
-					index = 130
-
-					male = {
-						1 = male_clothes_secular_mena_nobility_01_high
-						1 = male_clothes_secular_mena_nobility_02_high
-						1 = male_clothes_secular_dde_abbasid_nobility_01_high
-
-					}
-
-					female = {
-						1 = female_clothes_secular_mena_nobility_01_high
-						1 = female_clothes_secular_mena_nobility_02_high
-						1 = female_clothes_secular_dde_abbasid_nobility_01_high
-
-					}
-
-					boy = male
-					girl = female
+				female = {
+					2 = female_clothes_gondorian_nobility_01_high
+					2 = female_clothes_gondorian_nobility_02_high
+					2 = female_clothes_gondorian_nobility_03_high
+					1 = female_clothes_gondorian_nobility_04_high
 				}
 
-				haradrim_war_nobility_clothes = {
-					index = 131
+				boy = male
+				girl = female
+			}
 
-					male = {
-						1 = male_clothes_secular_mena_war_nobility_01_low
-					}
+			dunedain_imperial_clothes = {
+				index = 133
 
-					female = {
-						1 = female_clothes_secular_mena_war_nobility_01_low
-					}
+				male = {
+					2 = male_clothes_gondorian_nobility_01_high
+					2 = male_clothes_gondorian_nobility_02_high
+					2 = male_clothes_gondorian_nobility_03_high
+					1 = male_clothes_gondorian_nobility_04_high
+				}
 
-					boy = male
-					girl = female
-				}	
+				female = {
+					2 = female_clothes_gondorian_nobility_01_high
+					2 = female_clothes_gondorian_nobility_02_high
+					2 = female_clothes_gondorian_nobility_03_high
+					1 = female_clothes_gondorian_nobility_04_high
+				}
+
+				boy = male
+				girl = female
+			}
+
+			dunedain_war_nobility_clothes = {
+				index = 134
+
+				male = {
+					1 = m_clothes_sec_ep2_western_era1_war_nob_01_lo
+				}
+
+				female = {
+					1 = f_clothes_sec_ep2_western_era1_war_nob_01_lo
+				}
+				boy = male
+				girl = female
+			}
 			
+			dunedain_war_imperial_clothes = {
+				index = 135
+
+				male = {
+					1 = male_clothing_arnor_royalarmour_01
+				}
+
+				female = {
+					2 = female_clothes_gondorian_nobility_01_high
+					2 = female_clothes_gondorian_nobility_02_high
+					2 = female_clothes_gondorian_nobility_03_high
+					1 = female_clothes_gondorian_nobility_04_high
+				}
+
+				boy = male
+				girl = female
+			}			
+	
+		### HARADRIM ###
+			haradrim_commoner_clothes = {
+				index = 136
+
+				male = {
+					1 = male_clothes_secular_mena_nobility_01_common
+					1 = male_clothes_secular_mena_nobility_02_common
+					1 = male_clothes_secular_dde_abbasid_nobility_01_common
+			
+				}
+
+				female = {
+					1 = female_clothes_secular_mena_nobility_01_common
+					1 = female_clothes_secular_mena_nobility_02_common		
+					1 = female_clothes_secular_dde_abbasid_nobility_01_common	
+				}
+
+				boy = male
+				girl = female
+			}
+
+			haradrim_low_nobility_clothes = {
+				index = 137
+
+				male = {
+					1 = male_clothes_secular_mena_nobility_01_low
+					1 = male_clothes_secular_mena_nobility_02_low
+					1 = male_clothes_secular_dde_abbasid_nobility_01_low
+
+				}
+
+				female = {
+					1 = female_clothes_secular_mena_nobility_01_low
+					1 = female_clothes_secular_mena_nobility_02_low
+					1 = female_clothes_secular_dde_abbasid_nobility_01_low
+
+				}
+
+				boy = male
+				girl = female
+			}
+
+			haradrim_high_nobility_clothes = {
+				index = 138
+
+				male = {
+					1 = male_clothes_secular_mena_nobility_01_high
+					1 = male_clothes_secular_mena_nobility_02_high
+					1 = male_clothes_secular_dde_abbasid_nobility_01_high
+
+				}
+
+				female = {
+					1 = female_clothes_secular_mena_nobility_01_high
+					1 = female_clothes_secular_mena_nobility_02_high
+					1 = female_clothes_secular_dde_abbasid_nobility_01_high
+
+				}
+
+				boy = male
+				girl = female
+			}
+
+			haradrim_war_nobility_clothes = {
+				index = 139
+
+				male = {
+					1 = m_clothes_sec_mena_war_nob_01_lo
+				}
+
+				female = {
+					1 = f_clothes_sec_mena_war_nob_01_lo
+				}
+
+				boy = male
+				girl = female
+			}	
+		
 		### NAGZUL ###
-			
-				nazgul_clothes = {
-					index = 132
+		
+			nazgul_clothes = {
+				index = 140
 
-					male = {
-						2 = male_clothes_nazgul
-					}
-					female = male
-					boy = male
-					girl = male
-				}	
+				male = {
+					2 = male_clothes_nazgul
+				}
+				female = male
+				boy = male
+				girl = male
+			}	
 
 		### SAURON ###
-				sauron_clothes = {
-					index = 133
+			sauron_clothes = {
+				index = 141
 
-					male = {
-						2 = male_clothes_sauron
-					}
-					female = male
-					boy = male
-					girl = male
+				male = {
+					2 = male_clothes_sauron
 				}
-				
+				female = male
+				boy = male
+				girl = male
+			}
+			
 		### MORDOR URUKS ###
-				mordor_uruk = {
-					index = 134
-					male = {
-						2 = male_clothes_mordor_uruk_01
-					}
-					female = {
-						2 = female_clothes_mordor_uruk_01
-					}
-					boy = male
-					girl = female
+			mordor_uruk = {
+				index = 142
+				male = {
+					2 = male_clothes_mordor_uruk_01
 				}
+				female = {
+					2 = female_clothes_situational_western_prison_01_common
+				}
+				boy = male
+				girl = female
+			}
+			
 		### EPE ###
-				epe_clothes = {
-					index = 135
-					male = {
-						1 = male_clothes_secular_dde_abbasid_nobility_04
-						1 = male_clothes_religious_dde_muslim_caliph_01_male
-					}
-					female = {
-						10 = empty
-					}
-					boy = male
-					girl = female
+			epe_clothes = {
+				index = 143
+				male = {
+					1 = male_clothes_secular_dde_abbasid_nobility_04
+					1 = male_clothes_religious_dde_muslim_caliph_01_male
 				}
+				female = {
+					10 = empty
+				}
+				boy = male
+				girl = female
+			}
 		### Bellakar Religious ###
-				religious_bellakar_clothes = {
-					index = 136
-					male = {
-						1 = male_clothes_religious_dde_muslim_caliph_01_male
-					}
-					female = {
-						1 = female_clothes_religious_catholic_devoted_01_common
-					}
-					boy = male
-					girl = female
+			religious_bellakar_clothes = {
+				index = 144
+				male = {
+					1 = male_clothes_religious_dde_muslim_caliph_01_male
 				}
-				
+				female = {
+					1 = female_clothes_religious_catholic_devoted_01_common
+				}
+				boy = male
+				girl = female
+			}
+			
 		### Castamiri Clothing/Armor ###
-			
-				castamiri_imperial_clothes = {
-					index = 137
+		
+			castamiri_imperial_clothes = {
+				index = 145
 
-					male = {
-						1 = male_clothing_castamiri_royalarmour_01
-					}
-
-					female = {
-						2 = female_clothes_gondorian_nobility_01_high
-						2 = female_clothes_gondorian_nobility_02_high
-						2 = female_clothes_gondorian_nobility_03_high
-						1 = female_clothes_gondorian_nobility_04_high
-					}
-
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothing_castamiri_royalarmour_01
 				}
-				
+
+				female = {
+					2 = female_clothes_gondorian_nobility_01_high
+					2 = female_clothes_gondorian_nobility_02_high
+					2 = female_clothes_gondorian_nobility_03_high
+					1 = female_clothes_gondorian_nobility_04_high
+				}
+
+				boy = male
+				girl = female
+			}
+			
 		### Dale/Dorwinion Clothing
-				
-				dale_commoner_clothes = {
-					index = 138
+			
+			dale_commoner_clothes = {
+				index = 146
 
-					male = {
-						1 = male_clothes_dalemen_nobility_01_common
-						1 = male_clothes_dalemen_nobility_02_common
-						1 = male_clothes_dalemen_nobility_03_common
-						1 = male_clothes_dalemen_nobility_04_common
-					}
-
-					female = {
-						1 = female_clothes_dalemen_nobility_01_common
-						1 = female_clothes_dalemen_nobility_02_common
-						1 = female_clothes_dalemen_nobility_03_common
-						1 = female_clothes_dalemen_nobility_04_common
-					}
-
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_dalemen_nobility_01_common
+					1 = male_clothes_dalemen_nobility_02_common
+					1 = male_clothes_dalemen_nobility_03_common
+					1 = male_clothes_dalemen_nobility_04_common
 				}
-				
-				dale_low_nobility_clothes = {
-					index = 139
 
-					male = {
-						1 = male_clothes_dalemen_nobility_01_low
-						1 = male_clothes_dalemen_nobility_02_low
-						1 = male_clothes_dalemen_nobility_03_low
-						1 = male_clothes_dalemen_nobility_04_low
-					}
-
-					female = {
-						1 = female_clothes_dalemen_nobility_01_low
-						1 = female_clothes_dalemen_nobility_02_low
-						# 1 = female_clothes_dalemen_nobility_03_low - currently broken, invisible
-						1 = female_clothes_dalemen_nobility_04_low
-					}
-
-					boy = male
-					girl = female
+				female = {
+					1 = female_clothes_dalemen_nobility_01_common
+					1 = female_clothes_dalemen_nobility_02_common
+					1 = female_clothes_dalemen_nobility_03_common
+					1 = female_clothes_dalemen_nobility_04_common
 				}
-				
-				dale_high_nobility_clothes = {
-					index = 140
 
-					male = {
-						1 = male_clothes_dalemen_nobility_01_high
-						1 = male_clothes_dalemen_nobility_02_high
-						1 = male_clothes_dalemen_nobility_03_high
-						1 = male_clothes_dalemen_nobility_04_high
-					}
+				boy = male
+				girl = female
+			}
+			
+			dale_low_nobility_clothes = {
+				index = 147
 
-					female = {
-						1 = female_clothes_dalemen_nobility_01_high
-						1 = female_clothes_dalemen_nobility_02_high
-						1 = female_clothes_dalemen_nobility_03_high
-						1 = female_clothes_dalemen_nobility_04_high
-					}
-
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_dalemen_nobility_01_low
+					1 = male_clothes_dalemen_nobility_02_low
+					1 = male_clothes_dalemen_nobility_03_low
+					1 = male_clothes_dalemen_nobility_04_low
 				}
-				
+
+				female = {
+					1 = female_clothes_dalemen_nobility_01_low
+					1 = female_clothes_dalemen_nobility_02_low
+					# 1 = female_clothes_dalemen_nobility_03_low - currently broken, invisible
+					1 = female_clothes_dalemen_nobility_04_low
+				}
+
+				boy = male
+				girl = female
+			}
+			
+			dale_high_nobility_clothes = {
+				index = 148
+
+				male = {
+					1 = male_clothes_dalemen_nobility_01_high
+					1 = male_clothes_dalemen_nobility_02_high
+					1 = male_clothes_dalemen_nobility_03_high
+					1 = male_clothes_dalemen_nobility_04_high
+				}
+
+				female = {
+					1 = female_clothes_dalemen_nobility_01_high
+					1 = female_clothes_dalemen_nobility_02_high
+					1 = female_clothes_dalemen_nobility_03_high
+					1 = female_clothes_dalemen_nobility_04_high
+				}
+
+				boy = male
+				girl = female
+			}
+			
 		### Dorwinion Plate Armor
-				
-				dorwinion_war_nobility_clothes = {
-					index = 141
+			
+			dorwinion_war_nobility_clothes = {
+				index = 149
 
-					male = {
-						1 = male_clothes_plate_war_01
-					}
-
-					female = {
-						1 = f_clothes_sec_northern_war_nob_01_lo
-					}
-
-					boy = male
-					girl = female
-				}
-				
-				dorwinion_war_high_nobility_clothes = {
-					index = 142
-
-					male = {
-						1 = male_clothes_plate_war_02
-					}
-
-					female = {
-						1 = f_clothes_sec_northern_war_nob_01_lo
-					}
-
-					boy = male
-					girl = female
+				male = {
+					1 = male_clothes_plate_war_01
 				}
 
-		### HARONDORIM ###
+				female = {
+					1 = f_clothes_sec_northern_war_nob_01_lo
+				}
+
+				boy = male
+				girl = female
+			}
 			
-						harondorim_commoner_clothes = {
-							index = 143
-			
-							male = {
-								2 = male_clothes_harondorim_nobility_01_common
-								2 = male_clothes_harondorim_nobility_02_common
-								1 = male_clothes_gondorian_nobility_01_common
-							}
-			
-							female = {
-								2 = female_clothes_harondorim_nobility_01_common
-								2 = female_clothes_harondorim_nobility_02_common	
-								1 = female_clothes_gondorian_nobility_01_common
-							}
-			
-							boy = male
-							girl = female
+			dorwinion_war_high_nobility_clothes = {
+				index = 150
+
+				male = {
+					1 = male_clothes_plate_war_02
+				}
+
+				female = {
+					1 = f_clothes_sec_northern_war_nob_01_lo
+				}
+
+				boy = male
+				girl = female
+			}
+
+			# HARONDORIM #
+		
+					harondorim_commoner_clothes = {
+						index = 151
+		
+						male = {
+							2 = male_clothes_harondorim_nobility_01_common
+							2 = male_clothes_harondorim_nobility_02_common
+							1 = male_clothes_gondorian_nobility_01_common
 						}
-			
-						harondorim_low_nobility_clothes = {
-							index = 144
-			
-							male = {
-								2 = male_clothes_harondorim_nobility_01_low
-								2 = male_clothes_harondorim_nobility_02_low
-								1 = male_clothes_gondorian_nobility_01_low
-			
-							}
-			
-							female = {
-								2 = female_clothes_harondorim_nobility_01_low
-								2 = female_clothes_harondorim_nobility_02_low
-								1 = female_clothes_gondorian_nobility_01_low	
-			
-							}
-			
-							boy = male
-							girl = female
+		
+						female = {
+							2 = female_clothes_harondorim_nobility_01_common
+							2 = female_clothes_harondorim_nobility_02_common	
+							1 = female_clothes_gondorian_nobility_01_common
 						}
-			
-						harondorim_high_nobility_clothes = {
-							index = 145
-			
-							male = {
-								2 = male_clothes_harondorim_nobility_01_high
-								2 = male_clothes_harondorim_nobility_02_high
-								1 = male_clothes_gondorian_nobility_01_high
-			
-							}
-			
-							female = {
-								2 = female_clothes_harondorim_nobility_01_high
-								2 = female_clothes_harondorim_nobility_02_high
-								1 = female_clothes_gondorian_nobility_01_high
-			
-							}
-			
-							boy = male
-							girl = female
+		
+						boy = male
+						girl = female
+					}
+		
+					harondorim_low_nobility_clothes = {
+						index = 152
+		
+						male = {
+							2 = male_clothes_harondorim_nobility_01_low
+							2 = male_clothes_harondorim_nobility_02_low
+							1 = male_clothes_gondorian_nobility_01_low
+		
 						}
-							
-				
+		
+						female = {
+							2 = female_clothes_harondorim_nobility_01_low
+							2 = female_clothes_harondorim_nobility_02_low
+							1 = female_clothes_gondorian_nobility_01_low	
+		
+						}
+		
+						boy = male
+						girl = female
+					}
+		
+					harondorim_high_nobility_clothes = {
+						index = 153
+		
+						male = {
+							2 = male_clothes_harondorim_nobility_01_high
+							2 = male_clothes_harondorim_nobility_02_high
+							1 = male_clothes_gondorian_nobility_01_high
+		
+						}
+		
+						female = {
+							2 = female_clothes_harondorim_nobility_01_high
+							2 = female_clothes_harondorim_nobility_02_high
+							1 = female_clothes_gondorian_nobility_01_high
+		
+						}
+		
+						boy = male
+						girl = female
+					}
+						
+			
 		### Barbershop ###
 			barbershop_clothes_lotr = {
-				index = 146
+				index = 154
 				male = {
 					1 = male_clothes_gondorian_nobility_01_common
 					1 = male_clothes_gondorian_nobility_02_common
@@ -2935,6 +3146,11 @@ special_genes = {
 					1 = male_clothes_fantasy_wam_wizzard_robe_brown
 					1 = male_clothes_fantasy_wam_wizzard_robe_blue
 					1 = male_clothes_fantasy_wam_wizzard_robe_white
+					1 = male_clothes_fantasy_wam_wizzard_robe_dark_blue
+					1 = male_clothes_hobbit_common_01
+					1 = male_clothes_dwarf_war_01_steel
+					1 = male_clothes_dwarf_war_01_gold
+					1 = male_clothes_dwarf_war_01_bronze
 				}
 				female = {
 					1 = female_clothes_gondorian_nobility_01_common
@@ -2955,7 +3171,7 @@ special_genes = {
 					1 = female_clothes_harondorim_nobility_02_low
 					1 = female_clothes_harondorim_nobility_01_high
 					1 = female_clothes_harondorim_nobility_02_high
-					# 1 = female_clothes_gondorian_war_01
+					1 = female_clothes_gondorian_war_01
 					1 = female_clothes_gondorian_war_nobility_01_low
 					1 = female_clothes_dalemen_nobility_01_common
 					1 = female_clothes_dalemen_nobility_02_common
@@ -2963,7 +3179,7 @@ special_genes = {
 					1 = female_clothes_dalemen_nobility_04_common
 					1 = female_clothes_dalemen_nobility_01_low
 					1 = female_clothes_dalemen_nobility_02_low
-					# 1 = female_clothes_dalemen_nobility_03_low
+					1 = female_clothes_dalemen_nobility_03_low
 					1 = female_clothes_dalemen_nobility_04_low
 					1 = female_clothes_dalemen_nobility_01_high
 					1 = female_clothes_dalemen_nobility_02_high
@@ -2978,13 +3194,17 @@ special_genes = {
 					1 = female_clothes_fantasy_wam_wizzard_robe_brown
 					1 = female_clothes_fantasy_wam_wizzard_robe_blue
 					1 = female_clothes_fantasy_wam_wizzard_robe_white
+					1 = female_clothes_fantasy_wam_wizzard_robe_dark_blue
+					1 = female_clothes_dwarf_war_01_steel
+					1 = female_clothes_dwarf_war_01_gold
+					1 = female_clothes_dwarf_war_01_bronze
 				}
 				boy = male
 				girl = female
 			}
 			
 			barbershop_clothes_basegame = {
-				index = 147
+				index = 155
 				male = {
 					1 = male_clothes_secular_western_nobility_01_common
 					1 = male_clothes_secular_western_nobility_02_common
@@ -2997,21 +3217,21 @@ special_genes = {
 					1 = male_clothes_secular_western_nobility_02_high
 					1 = male_clothes_secular_western_nobility_03_high
 					1 = male_clothes_religious_catholic_head_01
-					1 = male_clothes_secular_western_war_nobility_01_low
+					1 = m_clothes_sec_western_war_nob_01_lo
 					1 = male_clothes_situational_western_prison_01_common
 					#1 = male_clothes_situational_western_stealth_cloak_01_common
 					1 = male_clothes_situational_western_bedchamber_01_common
-					1 = male_clothes_secular_crusades_western_war_nobility_01_common
-					1 = male_clothes_secular_crusades_western_war_nobility_02_common
-					1 = male_clothes_secular_crusades_western_war_nobility_03_common
-					1 = male_clothes_secular_crusades_western_war_nobility_04_common
+					1 = m_clothes_sec_crusades_western_war_nob_01_templar
+					1 = m_clothes_sec_crusades_western_war_nob_01_hospitaller
+					1 = m_clothes_sec_crusades_western_war_nob_01_jerusalem
+					1 = m_clothes_sec_crusades_western_war_nob_01_common
 					1 = male_clothes_secular_mena_nobility_01_common
 					1 = male_clothes_secular_mena_nobility_02_common
 					1 = male_clothes_secular_mena_nobility_01_low
 					1 = male_clothes_secular_mena_nobility_02_low
 					1 = male_clothes_secular_mena_nobility_01_high
 					1 = male_clothes_secular_mena_nobility_02_high
-					1 = male_clothes_secular_mena_war_nobility_01_low
+					1 = m_clothes_sec_mena_war_nob_01_lo
 					#1 = male_clothes_situational_mena_stealth_01_common
 					1 = male_clothes_secular_northern_nobility_01_common
 					1 = male_clothes_secular_northern_nobility_02_common
@@ -3019,21 +3239,21 @@ special_genes = {
 					1 = male_clothes_secular_northern_nobility_02_low
 					1 = male_clothes_secular_northern_nobility_01_high
 					1 = male_clothes_secular_northern_nobility_02_high
-					1 = male_clothes_secular_northern_war_nobility_01_common
+					1 = m_clothes_sec_northern_war_nob_01_lo
 					1 = male_clothes_secular_indian_nobility_01_common
 					1 = male_clothes_secular_indian_nobility_02_common
 					1 = male_clothes_secular_indian_nobility_01_low
 					1 = male_clothes_secular_indian_nobility_02_low
 					1 = male_clothes_secular_indian_nobility_01_high
 					1 = male_clothes_secular_indian_nobility_02_high
-					1 = male_clothes_secular_indian_war_nobility_01_low
+					1 = m_clothes_sec_indian_war_nob_01_lo
 					1 = male_clothes_secular_byzantine_nobility_01_common
 					1 = male_clothes_secular_byzantine_nobility_02_common
 					1 = male_clothes_secular_byzantine_nobility_01_low
 					1 = male_clothes_secular_byzantine_nobility_02_low
 					1 = male_clothes_secular_byzantine_nobility_01_high
 					1 = male_clothes_secular_byzantine_nobility_02_high
-					1 = male_clothes_secular_byzantine_war_nobility_01_low
+					1 = m_clothes_sec_byzantine_war_nob_01_lo
 					1 = male_clothes_secular_sub_saharan_nobility_01_common
 					1 = male_clothes_secular_sub_saharan_nobility_02_common
 					1 = male_clothes_secular_sub_saharan_nobility_01_low
@@ -3057,7 +3277,7 @@ special_genes = {
 					1 = male_clothes_religious_dde_catholic_high_01_common
 					1 = male_clothes_religious_catholic_high_01
 					1 = male_clothes_religious_catholic_head_01
-					#1 = male_clothes_religious_northern_high_01_common
+					#1 = male_clothes_religious_northern_high_01
 					1 = male_clothes_religious_african_high_01_common
 					1 = male_clothes_religious_hindu_devoted_01
 					1 = male_clothes_religious_buddhist_high_01
@@ -3077,21 +3297,21 @@ special_genes = {
 					1 = female_clothes_secular_western_nobility_01_high
 					1 = female_clothes_secular_western_nobility_02_high
 					1 = female_clothes_secular_western_nobility_03_high
-					1 = female_clothes_secular_western_war_nobility_01_low
+					1 = f_clothes_sec_western_war_nob_01_lo
 					1 = female_clothes_situational_western_prison_01_common
 					#1 = female_clothes_situational_western_stealth_cloak_01
 					1 = female_clothes_situational_western_bedchamber_01_common
-					1 = female_clothes_secular_crusades_western_war_nobility_01_common
-					1 = female_clothes_secular_crusades_western_war_nobility_02_common
-					1 = female_clothes_secular_crusades_western_war_nobility_03_common
-					1 = female_clothes_secular_crusades_western_war_nobility_04_common
+					1 = f_clothes_sec_crusades_western_war_nob_01_templar
+					1 = f_clothes_sec_crusades_western_war_nob_01_hospitaller
+					1 = f_clothes_sec_crusades_western_war_nob_01_jerusalem
+					1 = f_clothes_sec_crusades_western_war_nob_01_common
 					1 = female_clothes_secular_indian_nobility_01_common
 					1 = female_clothes_secular_indian_nobility_02_common
 					1 = female_clothes_secular_indian_nobility_01_low
 					1 = female_clothes_secular_indian_nobility_02_low
 					1 = female_clothes_secular_indian_nobility_01_high
 					1 = female_clothes_secular_indian_nobility_02_high
-					1 = female_clothes_secular_indian_war_nobility_01_low
+					1 = f_clothes_sec_indian_war_nob_01_lo
 					1 = female_clothes_secular_steppe_nobility_01_common
 					1 = female_clothes_secular_steppe_nobility_02_common
 					1 = female_clothes_secular_steppe_nobility_01_low
@@ -3105,14 +3325,14 @@ special_genes = {
 					1 = female_clothes_secular_byzantine_nobility_02_low
 					1 = female_clothes_secular_byzantine_nobility_01_high
 					1 = female_clothes_secular_byzantine_nobility_02_high
-					1 = female_clothes_secular_byzantine_war_nobility_01_low
+					1 = f_clothes_sec_byzantine_war_nob_01_lo
 					1 = female_clothes_secular_mena_nobility_01_common
 					1 = female_clothes_secular_mena_nobility_02_common
 					1 = female_clothes_secular_mena_nobility_01_low
 					1 = female_clothes_secular_mena_nobility_02_low
 					1 = female_clothes_secular_mena_nobility_01_high
 					1 = female_clothes_secular_mena_nobility_02_high
-					1 = female_clothes_secular_mena_war_nobility_01_low
+					1 = f_clothes_sec_mena_war_nob_01_lo
 					#1 = female_clothes_situational_mena_stealth_01
 					1 = female_clothes_secular_northern_nobility_01_common
 					1 = female_clothes_secular_northern_nobility_02_common
@@ -3120,7 +3340,7 @@ special_genes = {
 					1 = female_clothes_secular_northern_nobility_02_low
 					1 = female_clothes_secular_northern_nobility_01_high
 					1 = female_clothes_secular_northern_nobility_02_high
-					1 = female_clothes_secular_northern_war_nobility_01
+					1 = f_clothes_sec_northern_war_nob_01_lo
 					1 = female_clothes_secular_sub_saharan_nobility_01_common
 					1 = female_clothes_secular_sub_saharan_nobility_02_common
 					1 = female_clothes_secular_sub_saharan_nobility_01_low
@@ -3140,7 +3360,7 @@ special_genes = {
 			}
 			
 			barbershop_clothes_fp1 = {
-				index = 148
+				index = 156
 				male = {
 					1 = male_clothes_secular_fp1_common_01
 					1 = male_clothes_secular_fp1_common_02
@@ -3164,7 +3384,7 @@ special_genes = {
 			}
 			
 			barbershop_clothes_fp2 = {
-				index = 149
+				index = 157
 				male = {
 					1 = male_clothes_secular_fp2_iberian_muslim_common_01
 					1 = male_clothes_secular_fp2_iberian_christian_common_01
@@ -3198,7 +3418,7 @@ special_genes = {
 			}
 			
 			barbershop_clothes_fp3 = {
-				index = 150
+				index = 158
 				male = {
 					1 = m_clothes_sec_fp3_iranian_nob_01_lo
 					1 = m_clothes_sec_fp3_iranian_nob_02_lo
@@ -3222,7 +3442,7 @@ special_genes = {
 			}
 
 			barbershop_clothes_hre = {
-				index = 151
+				index = 159
 				male = {
 					1 = male_clothes_secular_dde_hre_nobility_02_common
 					1 = male_clothes_secular_dde_hre_nobility_03_common
@@ -3233,7 +3453,7 @@ special_genes = {
 					1 = male_clothes_secular_dde_hre_nobility_02_high
 					1 = male_clothes_secular_dde_hre_nobility_03_high
 					1 = male_clothes_secular_dde_hre_nobility_01_high
-					1 = male_clothes_secular_dde_hre_war_nobility_01_low
+					1 = m_clothes_sec_dde_hre_war_nob_01_lo
 					1 = male_clothes_religious_dde_catholic_high_01_common
 				}
 				female = {
@@ -3246,14 +3466,14 @@ special_genes = {
 					1 = female_clothes_secular_dde_hre_nobility_02_high
 					1 = female_clothes_secular_dde_hre_nobility_03_high
 					1 = female_clothes_secular_dde_hre_nobility_01_high
-					1 = female_clothes_secular_dde_hre_war_nobility_01_low
+					1 = f_clothes_sec_dde_hre_war_nob_01_lo
 				}
 				boy = male
 				girl = female
 			}
 			
 			barbershop_clothes_abbasid = {
-				index = 152
+				index = 160
 				male = {
 					1 = male_clothes_secular_dde_abbasid_nobility_02_common
 					1 = male_clothes_secular_dde_abbasid_nobility_03_common
@@ -3264,7 +3484,7 @@ special_genes = {
 					1 = male_clothes_secular_dde_abbasid_nobility_02_high
 					1 = male_clothes_secular_dde_abbasid_nobility_03_high
 					1 = male_clothes_secular_dde_abbasid_nobility_01_high
-					1 = male_clothes_secular_dde_abbasid_war_nobility_01_low
+					1 = m_clothes_sec_dde_abbasid_war_nob_01_lo
 					1 = male_clothes_religious_dde_muslim_head_01_common
 				}
 				female = {
@@ -3277,14 +3497,14 @@ special_genes = {
 					1 = female_clothes_secular_dde_abbasid_nobility_02_high
 					1 = female_clothes_secular_dde_abbasid_nobility_03_high
 					1 = female_clothes_secular_dde_abbasid_nobility_01_high
-					1 = female_clothes_secular_dde_abbasid_war_nobility_01_low
+					1 = f_clothes_sec_dde_abbasid_war_nob_01_lo
 				}
 				boy = male
 				girl = female
 			}
 			
 			castamiri_imperial_clothes = {
-				index = 153
+				index = 161
 
 				male = {
 					1 = male_clothing_castamiri_royalarmour_01
@@ -3302,7 +3522,7 @@ special_genes = {
 			}
 
 			wastelands_no_clothes = {
-				index = 154
+				index = 162
 
 				male = {
 					1 = no_clothes					
@@ -3317,25 +3537,28 @@ special_genes = {
 			}
 			
 			wizard_clothes = {
-				index = 155
+				index = 163
 				male = {
 					1 = male_clothes_fantasy_wam_wizzard_robe_grey
 					1 = male_clothes_fantasy_wam_wizzard_robe_brown
 					1 = male_clothes_fantasy_wam_wizzard_robe_blue
 					1 = male_clothes_fantasy_wam_wizzard_robe_white
+					1 = male_clothes_fantasy_wam_wizzard_robe_dark_blue
 				}
 				female = {
 					1 = female_clothes_fantasy_wam_wizzard_robe_grey
 					1 = female_clothes_fantasy_wam_wizzard_robe_brown
 					1 = female_clothes_fantasy_wam_wizzard_robe_blue
 					1 = female_clothes_fantasy_wam_wizzard_robe_white
+					1 = female_clothes_fantasy_wam_wizzard_robe_dark_blue
+					
 				}
 				boy = male
 				girl = female
 			}
 
 			elven_war = {
-				index = 156
+				index = 164
 
 				male = {
 					1 = male_clothes_elven_war_01
@@ -3350,7 +3573,7 @@ special_genes = {
 			}
 			
 			sauron_armor = {
-				index = 157
+				index = 165
 
 				male = {
 					1 = male_clothes_sauron_armor
@@ -3363,9 +3586,421 @@ special_genes = {
 				boy = male
 				girl = female				
 			}
+			
+			hobbit_commoner_clothes = {
+				index = 166
+
+				male = {
+					1 = male_clothes_hobbit_common_01
+				}
+
+				female = {
+					2 = female_clothes_secular_western_nobility_01_common
+					2 = female_clothes_secular_western_nobility_02_common
+					2 = female_clothes_secular_western_nobility_03_common
+					1 = female_clothes_secular_dde_hre_nobility_01_common
+				}
+
+				boy = male
+				girl = female				
+			}
+
+			dwarf_war_steel = {
+				index = 167
+
+				male = {
+					1 = male_clothes_dwarf_war_01_steel
+				}
+
+				female = {
+					2 = female_clothes_dwarf_war_01_steel
+
+				}
+
+				boy = male
+				girl = female				
+			}	
+			
+			dwarf_war_gold = {
+				index = 168
+
+				male = {
+					1 = male_clothes_dwarf_war_01_gold
+				}
+
+				female = {
+					2 = female_clothes_dwarf_war_01_gold
+
+				}
+
+				boy = male
+				girl = female				
+			}
+			
+			dwarf_war_bronze = {
+				index = 169
+
+				male = {
+					1 = male_clothes_dwarf_war_01_bronze
+				}
+
+				female = {
+					2 = female_clothes_dwarf_war_01_bronze
+
+				}
+
+				boy = male
+				girl = female				
+			}
+			
+			### MORIA ORCS ###
+			moria_orc = {
+				index = 170
+				male = {
+					2 = male_clothes_mordor_uruk_01
+				}
+				female = {
+					2 = female_clothes_situational_western_prison_01_common
+				}
+				boy = male
+				girl = female
+			}
+			
+			### MOUNTAIN ORCS ###
+			mountain_orc = {
+				index = 171
+				male = {
+					2 = male_clothes_uruk_isengard_soldier_1
+				}
+				female = {
+					2 = female_clothes_situational_western_prison_01_common
+				}
+				boy = male
+				girl = female
+			}
+
+			### GOBLINS ###
+			goblin_clothes = {
+				index = 172
+				male = {
+				}
+				female = {
+					2 = female_clothes_uruk_berserker
+				}
+				boy = {
+				}
+				girl = {
+					2 = female_clothes_uruk_berserker
+				}
+			}
+			
+			burgulhai_clothes = {
+				index = 173
+				male = {
+					1 = male_clothes_situational_mena_stealth_01
+				}
+				female = {
+					1 = female_clothes_situational_western_prison_01_common
+				}
+				boy = male
+				girl = female
+			}
+			
+			dolguldur_orc = {
+				index = 174
+				male = {
+					1 = male_clothes_mordor_uruk_01
+				}
+				female = {
+					1 = female_clothes_situational_western_prison_01_common
+				}
+				boy = male
+				girl = female
+			}
+			
+			### ROHIRRIM ###
+
+			rohirrim_commoner_clothes = {
+				index = 175
+
+				male = {
+					1 = male_clothes_secular_northern_nobility_01_common
+					1 = male_clothes_secular_northern_nobility_02_common
+				}
+
+				female = {
+					1 = female_clothes_secular_northern_nobility_01_common
+					1 = female_clothes_secular_northern_nobility_02_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			 rohirrim_low_nobility_clothes = {
+				index = 176
+
+				male = {
+					1 = male_clothes_secular_northern_nobility_01_low
+					1 = male_clothes_secular_northern_nobility_02_low
+				}
+
+				female = {
+					1 = female_clothes_secular_northern_nobility_01_low
+					1 = female_clothes_secular_northern_nobility_02_low		
+				}
+				boy = male
+				girl = female
+			}
+
+			rohirrim_high_nobility_clothes = {
+				index = 177
+
+				male = {
+					2 = male_clothes_rohan_nobility
+				}
+
+				female = {
+					1 = female_clothes_secular_northern_nobility_01_high
+					1 = female_clothes_secular_northern_nobility_02_high
+				}
+				boy = male
+				girl = female
+			}
+
+			rohirrim_war_nobility_clothes = {
+				index = 178
+
+				male = {
+					2 = male_clothes_rohan_guard
+				}
+
+				female = {
+					1 = f_clothes_sec_northern_war_nob_01_lo
+				}
+				boy = male
+				girl = female
+			}		
+		
+			theoden_clothes = {
+				index = 179
+
+				male = {
+					2 = male_clothes_theoden
+				}
+
+				female = {
+					1 = female_clothes_secular_northern_nobility_01_high
+					1 = female_clothes_secular_northern_nobility_02_high
+				}
+
+				boy = male
+				girl = female
+			}
+		
+		### MAIA ###
+			maia_saruman_clothes = {
+				index = 180
+				
+				male = {
+					2 = male_clothes_maia_saruman
+				}
+				
+				female = {
+					1 = female_clothes_religious_northern_high_01
+				}
+				boy = male
+				girl = female	
+			}
+		
+		### URUKHAI ###
+		
+			uruk_berserker_clothes = {
+				index = 181
+
+				male = {
+				}
+
+				female = {
+					2 = female_clothes_uruk_berserker
+				}
+
+				boy = male
+				girl = female
+			}	
+			
+			uruk_soldier_clothes = {
+				index = 182
+
+				male = {
+					2 = male_clothes_uruk_isengard_soldier_2
+				}
+
+				female = {
+					2 = female_clothes_uruk_isengard_soldier_2
+				}
+
+				boy = male
+				girl = female
+			}
+			
+		### Silvan Elf ###
+			
+			silvan_commoner_clothes = {
+				index = 183
+
+				male = {
+					1 = male_clothes_silvan_nobility_01_common
+					1 = male_clothes_silvan_nobility_02_common
+				}
+
+				female = {
+					1 = female_clothes_silvan_nobility_01_common
+					1 = female_clothes_silvan_nobility_02_common
+				}
+
+				boy = male
+				girl = female
+			}
+			
+			silvan_low_nobility_clothes = {
+				index = 184
+
+				male = {
+					1 = male_clothes_silvan_nobility_01_low
+					1 = male_clothes_silvan_nobility_02_low
+				}
+
+				female = {
+					1 = female_clothes_silvan_nobility_01_low
+					1 = female_clothes_silvan_nobility_02_low
+				}
+
+				boy = male
+				girl = female
+			}
+			
+			silvan_high_nobility_clothes = {
+				index = 185
+
+				male = {
+					1 = male_clothes_silvan_nobility_01_high
+					1 = male_clothes_silvan_nobility_02_high
+				}
+
+				female = {
+					1 = female_clothes_silvan_nobility_01_high
+					1 = female_clothes_silvan_nobility_02_high
+				}
+
+				boy = male
+				girl = female
+			}
+			
+			bombadil_clothes = {
+				index = 186
+
+				male = {
+					1 = male_clothes_bombadil_01
+				}
+				female = male
+				boy = male
+				girl = male				
+			}
+
+			circumpolar_commoner_clothes = {
+				index = 187
+
+				male = {
+					1 = male_clothes_circumpolar_01_common
+					1 = male_clothes_circumpolar_02_common
+				}
+
+				female = {
+					1 = female_clothes_circumpolar_02_common
+				}
+
+				boy = male
+				girl = female
+			}
+
+			circumpolar_low_nobility_clothes = {
+				index = 188
+
+				male = {
+					1 = male_clothes_circumpolar_01_low
+					1 = male_clothes_circumpolar_02_low
+				}
+
+				female = {
+					1 = female_clothes_circumpolar_02_low		
+				}
+				boy = male
+				girl = female
+			}
+
+			circumpolar_high_nobility_clothes = {
+				index = 189
+
+				male = {
+
+					1 = male_clothes_circumpolar_01_high
+					1 = male_clothes_circumpolar_02_high
+				}
+
+				female = {
+					1 = female_clothes_circumpolar_02_high
+				}
+				boy = male
+				girl = female
+			}
+
+			circumpolar_war_nobility_clothes = {
+				index = 190
+
+				male = {
+					1 = m_clothes_sec_northern_war_nob_01_lo
+				}
+
+				female = {
+					1 = f_clothes_sec_northern_war_nob_01_lo
+				}
+				boy = male
+				girl = female
+			}
+			
+			elven_war_noldor = {
+				index = 191
+
+				male = {
+					1 = male_clothes_elven_war_noldor_01
+				}
+
+				female = {
+					1 = female_clothes_elven_war_noldor_01
+				}
+
+				boy = male
+				girl = female
+			}
+			
+			elven_war_galadhrim = {
+				index = 192
+
+				male = {
+					1 = male_clothes_elven_war_galadhrim_01
+				}
+
+				female = {
+					1 = female_clothes_elven_war_galadhrim_01
+				}
+
+				boy = male
+				girl = female
+			}
 			## LIDA added
 			sub_harness = {
-				index = 158
+				index = 193
 				male = {
 					1 = male_accessories_lida_l_harness_1
 				}
@@ -3376,7 +4011,7 @@ special_genes = {
 				girl = female
 			}
 			skimpy_plate = {
-				index = 159
+				index = 194
 				male = {
 					1 = empty
 				}
@@ -3387,7 +4022,7 @@ special_genes = {
 				girl = female
 			}
 			dress_harness = {
-				index = 160
+				index = 195
 				male = {
 					1 = empty
 				}
@@ -3398,7 +4033,7 @@ special_genes = {
 				girl = female
 			}
 			asymmetric_dress = {
-				index = 161
+				index = 196
 				male = {
 					1 = empty
 				}
@@ -3409,7 +4044,7 @@ special_genes = {
 				girl = female
 			}
 			plunge_dress = {
-				index = 162
+				index = 197
 				male = {
 					1 = empty
 				}
@@ -3422,3 +4057,4 @@ special_genes = {
 		}
 	}
 }
+
