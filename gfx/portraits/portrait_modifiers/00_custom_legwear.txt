@@ -1,6 +1,6 @@
 ﻿custom_legwear = {
 	usage = customization
-	interface_position = 6
+	interface_position = 5
 	
 	add_accessory_modifiers = {
 		gene = legwear
@@ -37,6 +37,17 @@
 		}
 		template = fp1_common_legwear
 	}
+	
+	### Shogunate ###
+
+	add_accessory_modifiers = {
+		gene = legwear
+		template = japanese_tabi
+	}
+	add_accessory_modifiers = {
+		gene = legwear
+		template = japanese_war_legwear
+	}
 
 	## EP1 ##
 	
@@ -47,6 +58,7 @@
 		}
 		template = ep1_jester_legwear
 	}
+
 	## EP2 ##
 	
 	add_accessory_modifiers = {
@@ -57,6 +69,42 @@
 		template = ep2_western_war_legwear
 	}
 	
+	## EP3 ##
+	
+	add_accessory_modifiers = {
+		gene = legwear
+		is_valid_custom = {
+			has_ep3_dlc_trigger = yes
+		}
+		template = ep3_byzantine_imperial_legwear
+	}
+
+	add_accessory_modifiers = {
+		gene = legwear
+		is_valid_custom = {
+			has_ep3_dlc_trigger = yes
+		}
+		template = ep3_byzantine_war_nobility_legwear
+	}
+
+	add_accessory_modifiers = {
+		gene = legwear
+		is_valid_custom = {
+			has_ep3_dlc_trigger = yes
+		}
+		template = ep3_byzantine_nobility_legwear
+	}
+	
+	## POL ##
+	
+	add_accessory_modifiers = {
+		gene = legwear
+		is_valid_custom = {
+			has_pol_dlc_trigger = yes
+		}
+		template = pol_common_legwear	
+	}
+	
 	## AFR ##
 	
 	add_accessory_modifiers = {
@@ -65,6 +113,24 @@
 			has_afr_dlc_trigger = yes
 		}
 		template = afr_common_legwear
+	}
+
+	## CCP4 ##
+
+	add_accessory_modifiers = {
+		gene = legwear
+		is_valid_custom = {
+			has_cp4_dlc_trigger = yes
+		}
+		template = ccp4_sami_common_legwear
+	}
+
+	add_accessory_modifiers = {
+		gene = legwear
+		is_valid_custom = {
+			has_cp4_dlc_trigger = yes
+		}
+		template = ccp4_khanty_common_legwear
 	}	
 
 	######################## LotR: REALMS IN EXILE CONTENT BELOW HERE ########################
@@ -111,6 +177,26 @@
 	add_accessory_modifiers = {
 		gene = legwear
 		template = elven_war_legwear
+	}
+	
+	add_accessory_modifiers = {
+		gene = legwear
+		template = elven_war_noldor_legwear
+	}
+	
+	add_accessory_modifiers = {
+		gene = legwear
+		template = elven_war_galadhrim_legwear
+	}
+	
+	add_accessory_modifiers = {
+		gene = legwear
+		template = elven_war_silvan_legwear
+	}
+	
+	add_accessory_modifiers = {
+		gene = legwear
+		template = elven_war_silvan_king_legwear
 	}
 	
 	add_accessory_modifiers = {
